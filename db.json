@@ -1,38 +1,17 @@
 {
   "data": [
     {
-      "Country Code": "1",
-      "City": "Chennai",
-      "Address": "47, Gandhi Mandapam Road, Kotturpuram, Chennai",
-      "Locality": "Kotturpuram",
-      "Locality Verbose": "Kotturpuram, Chennai",
-      "Longitude": "80.24243889",
-      "Latitude": "13.02239444",
-      "Cuisines": "Cafe",
-      "Average Cost for two": "1100",
-      "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "3",
-      "Aggregate rating": "4.1",
-      "Rating color": "Green",
-      "Rating text": "Very Good",
-      "Votes": "1004"
-    },
-    {
-      "Restaurant ID": "1001",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Ciclo Cafe",
-      "restaurant-images": "cafe1.jpg",
+      "RestaurantID": "1001",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Ciclo Cafe",
+      "restaurantImages": "./Resource/cafe1.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Black Forrest Cake",
           "position": 1,
           "description": "Black Forrest Cake smothered with old-fashioned whipped cream and topped off with juicy cherries",
-          "image": "500x378-black-forest-cake_0_CCD.jpg",
+          "image": "./Resource/500x378-black-forest-cake_0_CCD.jpg",
           "price": "100"
         },
         {
@@ -40,7 +19,7 @@
           "name": "Chilli Cheese Toastizza",
           "position": 1,
           "description": "Get cheesy with this crispy toast topped with onions, tomatoes and capsicum, loaded with cheese and sprinkled with chilli flakes.",
-          "image": "Chilli-Cheese-Toastizza_2_CCD.jpg",
+          "image": "./Resource/Chilli-Cheese-Toastizza_2_CCD.jpg",
           "price": "110"
         },
         {
@@ -48,7 +27,7 @@
           "name": "Cocoa Fantasy Pastry",
           "position": 1,
           "description": "Classic chocolate pre sliced pastry with cream & cocoa vermicelli.",
-          "image": "836x663-Coco-Slice_CCD.jpg",
+          "image": "./Resource/836x663-Coco-Slice_CCD.jpg",
           "price": "120"
         },
         {
@@ -56,7 +35,7 @@
           "name": "Crispy Veg Wrap",
           "position": 1,
           "description": "We made veggies taste good. You can thank us later.",
-          "image": "CrispyVeg_2_CCD.jpg",
+          "image": "./Resource/CrispyVeg_2_CCD.jpg",
           "price": "130"
         },
         {
@@ -64,7 +43,7 @@
           "name": "Garlic Bread",
           "position": 1,
           "description": "Buttery rich goodness infused with garlic. You won't be able to resist it!",
-          "image": "Garlic-Bread_2_CCD.jpg",
+          "image": "./Resource/Garlic-Bread_2_CCD.jpg",
           "price": "140"
         },
         {
@@ -72,7 +51,7 @@
           "name": "Munch-On Nachos",
           "position": 1,
           "description": "The crispiest of corn chips pampered with salsa from the land of Tex-Mex. Munch hunger away!",
-          "image": "Nachos_CCD.jpg",
+          "image": "./Resource/Nachos_CCD.jpg",
           "price": "150"
         },
         {
@@ -80,7 +59,7 @@
           "name": "Peppy Chicken Roll",
           "position": 1,
           "description": "Peppery chicken with crunchy juliennes of capsicum and red onion in a delicious Malabar egg paratha. Yes, that's how we roll.",
-          "image": "Peppy-Chicken-Roll_1_CCD.jpg",
+          "image": "./Resource/Peppy-Chicken-Roll_1_CCD.jpg",
           "price": "160"
         },
         {
@@ -88,7 +67,7 @@
           "name": "Smoked Chicken Sandwich",
           "position": 1,
           "description": "Succulent smoked chicken topped with crunchy veggies, served in a white bread topped with chipotle.",
-          "image": "Smoked-Chicken-Sandwich_2_CCD.jpg",
+          "image": "./Resource/Smoked-Chicken-Sandwich_2_CCD.jpg",
           "price": "170"
         },
         {
@@ -96,7 +75,7 @@
           "name": "Sizzle Dazzle Brownie",
           "position": 1,
           "description": "Sizzling hot gooey choco brownie served with vanilla ice cream and choco sauce.",
-          "image": "sizzle-dazzle-brownie_(2)_CCD.jpg",
+          "image": "./Resource/sizzle-dazzle-brownie_(2)_CCD.jpg",
           "price": "180"
         },
         {
@@ -104,42 +83,42 @@
           "name": "Aztec Single Origin Coffee",
           "position": 1,
           "description": "A delightful international gourment blend that includes a double shot of espresso brewed from a blend of imported coffee beans topped with steamed and foamed milk.",
-          "image": "Aztec-Ethiopian_0_CCD.jpg",
+          "image": "./Resource/Aztec-Ethiopian_0_CCD.jpg",
           "price": "190"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Chennai",
       "Address": "47, Gandhi Mandapam Road, Kotturpuram, Chennai",
       "Locality": "Kotturpuram",
-      "Locality Verbose": "Kotturpuram, Chennai",
+      "LocalityVerbose": "Kotturpuram, Chennai",
       "Longitude": "80.24243889",
       "Latitude": "13.02239444",
       "Cuisines": "Cafe",
-      "Average Cost for two": "1100",
+      "AverageCost": "1100",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "3",
-      "Aggregate rating": "4.1",
-      "Rating color": "Green",
-      "Rating text": "Very Good",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "3",
+      "AggregateRating": "4.1",
+      "RatingColor": "Green",
+      "RatingText": "Very Good",
       "Votes": "1004"
     },
     {
-      "Restaurant ID": "1002",
-      "Restaurant password": "12345",
-      "Restaurant Name": "AB's - Absolute Barbecues",
-      "restaurant-images": "Barbeques.jpg",
+      "RestaurantID": "1002",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "AB's - Absolute Barbecues",
+      "restaurantImages": "./Resource/Barbeques.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Panner Reshmi Seekh",
           "position": 1,
           "description": "Capsicum,Honey,Pineapple, tasty combination of sweet and spicy",
-          "image": "download_NI.jpeg",
+          "image": "./Resource/download_NI.jpeg",
           "price": "100"
         },
         {
@@ -147,7 +126,7 @@
           "name": "Soya Malai Tikka",
           "position": 1,
           "description": "Delicious veg soya chaap in a creamy thick sauce",
-          "image": "maxresdefault_NI.jpg",
+          "image": "./Resource/maxresdefault_NI.jpg",
           "price": "110"
         },
         {
@@ -155,7 +134,7 @@
           "name": "Ajwain Fish Tikka",
           "position": 1,
           "description": "Spicy Fish Tikka preparation marinated with a combination of yogurt and spices infused with a slight",
-          "image": "fish_tikka_NI.jpegg",
+          "image": "./Resource/fish_tikka_NI.jpegg",
           "price": "120"
         },
         {
@@ -163,7 +142,7 @@
           "name": "Thai Chicken Curry",
           "position": 1,
           "description": "This fragrant Thai chicken curry is a one-pan dish that comes together in just 30 minutes.",
-          "image": "Thai-Red-Curry-Chicken-2_NI.jpg",
+          "image": "./Resource/Thai-Red-Curry-Chicken-2_NI.jpg",
           "price": "130"
         },
         {
@@ -171,7 +150,7 @@
           "name": "Butter Chicken",
           "position": 1,
           "description": "Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplified and cooked",
-          "image": "Butter_chicken_NI.jpeg",
+          "image": "./Resource/Butter_chicken_NI.jpeg",
           "price": "140"
         },
         {
@@ -179,7 +158,7 @@
           "name": "Makai Palak",
           "position": 1,
           "description": "In this corn palak recipe, boiled sweet corns kernels are added into vibrant green looking spinach",
-          "image": "big_palak_corn_subzi-7336_NI.jpg",
+          "image": "./Resource/big_palak_corn_subzi-7336_NI.jpg",
           "price": "150"
         },
         {
@@ -187,7 +166,7 @@
           "name": "Dal Makhani & Jeera Rice",
           "position": 1,
           "description": "simply tasty delicious dal makhani & jeera rice",
-          "image": "dal_rice_NI.jpeg",
+          "image": "./Resource/dal_rice_NI.jpeg",
           "price": "150"
         },
         {
@@ -195,35 +174,35 @@
           "name": "Mutton Rogan Josh",
           "position": 1,
           "description": "Mutton Rogan Josh is a tasty and delicious recipe from the Kashmiri cuisine",
-          "image": "Mutton Rogan Josh_NI.JPG",
+          "image": "./Resource/Mutton Rogan Josh_NI.JPG",
           "price": "160"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Chennai",
       "Address": "Velachery Tharamani Link Road, Opposite TCS, Velachery, Chennai",
       "Locality": "Velachery",
-      "Locality Verbose": "Velachery, Chennai",
+      "LocalityVerbose": "Velachery, Chennai",
       "Longitude": "80.231598",
       "Latitude": "12.981615",
       "Cuisines": "North Indian",
-      "Average Cost for two": "1600",
+      "AverageCost": "1600",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "3",
-      "Aggregate rating": "4.9",
-      "Rating color": "Dark Green",
-      "Rating text": "Excellent",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "3",
+      "AggregateRating": "4.9",
+      "RatingColor": "Dark Green",
+      "RatingText": "Excellent",
       "Votes": "859"
     },
     {
-      "Restaurant ID": "1003",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Pind",
-      "restaurant-images": "pind.jpeg",
+      "RestaurantID": "1003",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Pind",
+      "restaurantImages": "./Resource/pind.jpeg",
 
       "menu-items": [
         {
@@ -231,7 +210,7 @@
           "name": "Masala Dhosa Sambar",
           "position": 1,
           "description": "Instant Masala Dosha And Sambar Dal with the flavour of chennai",
-          "image": "img.png",
+          "image": "./Resource/img.png",
           "price": "110"
         },
         {
@@ -239,7 +218,7 @@
           "name": "Idli With Idli",
           "position": 1,
           "description": "Idli sambar is a tasty & delicious hotel style tiffin sambar that is served with idli",
-          "image": "idli-sambar-1_SI.jpg",
+          "image": "./Resource/idli-sambar-1_SI.jpg",
           "price": "120"
         },
         {
@@ -247,7 +226,7 @@
           "name": "Uttapam",
           "position": 1,
           "description": "Uttapam (aka Uttappa or Oothapam) is yet another healthy breakfast recipe from South Indian cuisine ",
-          "image": "uttapam_SI.jpg",
+          "image": "./Resource/uttapam_SI.jpg",
           "price": "130"
         },
         {
@@ -255,7 +234,7 @@
           "name": "Upma",
           "position": 1,
           "description": "Tasty South Indian upma",
-          "image": "vegetable-rava-upma_SI.png",
+          "image": "./Resource/vegetable-rava-upma_SI.png",
           "price": "140"
         },
         {
@@ -263,7 +242,7 @@
           "name": "Poha",
           "position": 1,
           "description": "Yummy South Indian Poha",
-          "image": "poha-recipe_SI.jpg",
+          "image": "./Resource/poha-recipe_SI.jpg",
           "price": "150"
         },
         {
@@ -271,7 +250,7 @@
           "name": "Lemon Rice",
           "position": 1,
           "description": "Lemony Spicy Lemon Rice",
-          "image": "Lemon-Rice-4_SI.jpg",
+          "image": "./Resource/Lemon-Rice-4_SI.jpg",
           "price": "150"
         },
         {
@@ -279,7 +258,7 @@
           "name": "Mysore Bonda",
           "position": 1,
           "description": "Mysore Bonda",
-          "image": "Bonda_SI.jpeg",
+          "image": "./Resource/Bonda_SI.jpeg",
           "price": "160"
         },
         {
@@ -287,42 +266,42 @@
           "name": "Dahi Bara",
           "position": 1,
           "description": "North Indian Dahi vada are deep fried lentil balls soaked in curd/ yogurt and topped with various Spices & Masalas",
-          "image": "dahi-vada-recipe_SI.jpg",
+          "image": "./Resource/dahi-vada-recipe_SI.jpg",
           "price": "170"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Chennai",
       "Address": "2, Sarathy Nagar, 1st Main Road, Velachery, Chennai",
       "Locality": "Velachery",
-      "Locality Verbose": "Velachery, Chennai",
+      "LocalityVerbose": "Velachery, Chennai",
       "Longitude": "80.221898",
       "Latitude": "12.975996",
       "Cuisines": "South Indian",
-      "Average Cost for two": "900",
+      "AverageCost": "900",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "Yes",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "2",
-      "Aggregate rating": "4",
-      "Rating color": "Green",
-      "Rating text": "Very Good",
+      "HasTableBooking": "Yes",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "2",
+      "AggregateRating": "4",
+      "RatingColor": "Green",
+      "RatingText": "Very Good",
       "Votes": "2272"
     },
     {
-      "Restaurant ID": "1004",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Makers & Bakers",
-      "restaurant-images": "makers_Bakers.jpg",
+      "RestaurantID": "1004",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Makers & Bakers",
+      "restaurantImages": "./Resource/makers_Bakers.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Black Forrest Cake",
           "position": 1,
           "description": "Black Forrest Cake smothered with old-fashioned whipped cream and topped off with juicy cherries",
-          "image": "500x378-black-forest-cake_0_CCD.jpg",
+          "image": "./Resource/500x378-black-forest-cake_0_CCD.jpg",
           "price": "100"
         },
         {
@@ -330,7 +309,7 @@
           "name": "Chilli Cheese Toastizza",
           "position": 1,
           "description": "Get cheesy with this crispy toast topped with onions, tomatoes and capsicum, loaded with cheese and sprinkled with chilli flakes.",
-          "image": "Chilli-Cheese-Toastizza_2_CCD.jpg",
+          "image": "./Resource/Chilli-Cheese-Toastizza_2_CCD.jpg",
           "price": "110"
         },
         {
@@ -338,7 +317,7 @@
           "name": "Cocoa Fantasy Pastry",
           "position": 1,
           "description": "Classic chocolate pre sliced pastry with cream & cocoa vermicelli.",
-          "image": "836x663-Coco-Slice_CCD.jpg",
+          "image": "./Resource/836x663-Coco-Slice_CCD.jpg",
           "price": "120"
         },
         {
@@ -346,7 +325,7 @@
           "name": "Crispy Veg Wrap",
           "position": 1,
           "description": "We made veggies taste good. You can thank us later.",
-          "image": "CrispyVeg_2_CCD.jpg",
+          "image": "./Resource/CrispyVeg_2_CCD.jpg",
           "price": "130"
         },
         {
@@ -354,7 +333,7 @@
           "name": "Garlic Bread",
           "position": 1,
           "description": "Buttery rich goodness infused with garlic. You won't be able to resist it!",
-          "image": "Garlic-Bread_2_CCD.jpg",
+          "image": "./Resource/Garlic-Bread_2_CCD.jpg",
           "price": "140"
         },
         {
@@ -362,7 +341,7 @@
           "name": "Munch-On Nachos",
           "position": 1,
           "description": "The crispiest of corn chips pampered with salsa from the land of Tex-Mex. Munch hunger away!",
-          "image": "Nachos_CCD.jpg",
+          "image": "./Resource/Nachos_CCD.jpg",
           "price": "150"
         },
         {
@@ -370,7 +349,7 @@
           "name": "Peppy Chicken Roll",
           "position": 1,
           "description": "Peppery chicken with crunchy juliennes of capsicum and red onion in a delicious Malabar egg paratha. Yes, that's how we roll.",
-          "image": "Peppy-Chicken-Roll_1_CCD.jpg",
+          "image": "./Resource/Peppy-Chicken-Roll_1_CCD.jpg",
           "price": "160"
         },
         {
@@ -378,7 +357,7 @@
           "name": "Smoked Chicken Sandwich",
           "position": 1,
           "description": "Succulent smoked chicken topped with crunchy veggies, served in a white bread topped with chipotle.",
-          "image": "Smoked-Chicken-Sandwich_2_CCD.jpg",
+          "image": "./Resource/Smoked-Chicken-Sandwich_2_CCD.jpg",
           "price": "170"
         },
         {
@@ -386,7 +365,7 @@
           "name": "Sizzle Dazzle Brownie",
           "position": 1,
           "description": "Sizzling hot gooey choco brownie served with vanilla ice cream and choco sauce.",
-          "image": "sizzle-dazzle-brownie_(2)_CCD.jpg",
+          "image": "./Resource/sizzle-dazzle-brownie_(2)_CCD.jpg",
           "price": "180"
         },
         {
@@ -394,42 +373,42 @@
           "name": "Aztec Single Origin Coffee",
           "position": 1,
           "description": "A delightful international gourment blend that includes a double shot of espresso brewed from a blend of imported coffee beans topped with steamed and foamed milk.",
-          "image": "Aztec-Ethiopian_0_CCD.jpg",
+          "image": "./Resource/Aztec-Ethiopian_0_CCD.jpg",
           "price": "190"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Delhi",
       "Address": "Shop 40, Shankar Market, Barakhamba Road, Delhi",
       "Locality": "Barakhamba Road",
-      "Locality Verbose": "Barakhamba Road, Delhi",
+      "LocalityVerbose": "Barakhamba Road, Delhi",
       "Longitude": "77.2243937",
       "Latitude": "28.6337562",
       "Cuisines": "Cafe",
-      "Average Cost for two": "350",
+      "AverageCost": "350",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "1",
-      "Aggregate rating": "0",
-      "Rating color": "White",
-      "Rating text": "Not rated",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "1",
+      "AggregateRating": "0",
+      "RatingColor": "White",
+      "RatingText": "Not rated",
       "Votes": "0"
     },
     {
-      "Restaurant ID": "1005",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Blue Tokai Coffee Roasters",
-      "restaurant-images": "cafe2.jpeg",
+      "RestaurantID": "1005",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Blue Tokai Coffee Roasters",
+      "restaurantImages": "./Resource/cafe2.jpeg",
       "menu-items": [
         {
           "id": "1",
           "name": "Black Forrest Cake",
           "position": 1,
           "description": "Black Forrest Cake smothered with old-fashioned whipped cream and topped off with juicy cherries",
-          "image": "500x378-black-forest-cake_0_CCD.jpg",
+          "image": "./Resource/500x378-black-forest-cake_0_CCD.jpg",
           "price": "110"
         },
         {
@@ -437,7 +416,7 @@
           "name": "Chilli Cheese Toastizza",
           "position": 1,
           "description": "Get cheesy with this crispy toast topped with onions, tomatoes and capsicum, loaded with cheese and sprinkled with chilli flakes.",
-          "image": "Chilli-Cheese-Toastizza_2_CCD.jpg",
+          "image": "./Resource/Chilli-Cheese-Toastizza_2_CCD.jpg",
           "price": "120"
         },
         {
@@ -445,7 +424,7 @@
           "name": "Cocoa Fantasy Pastry",
           "position": 1,
           "description": "Classic chocolate pre sliced pastry with cream & cocoa vermicelli.",
-          "image": "836x663-Coco-Slice_CCD.jpg",
+          "image": "./Resource/836x663-Coco-Slice_CCD.jpg",
           "price": "130"
         },
         {
@@ -453,7 +432,7 @@
           "name": "Crispy Veg Wrap",
           "position": 1,
           "description": "We made veggies taste good. You can thank us later.",
-          "image": "CrispyVeg_2_CCD.jpg",
+          "image": "./Resource/CrispyVeg_2_CCD.jpg",
           "price": "140"
         },
         {
@@ -461,7 +440,7 @@
           "name": "Garlic Bread",
           "position": 1,
           "description": "Buttery rich goodness infused with garlic. You won't be able to resist it!",
-          "image": "Garlic-Bread_2_CCD.jpg",
+          "image": "./Resource/Garlic-Bread_2_CCD.jpg",
           "price": "150"
         },
         {
@@ -469,7 +448,7 @@
           "name": "Munch-On Nachos",
           "position": 1,
           "description": "The crispiest of corn chips pampered with salsa from the land of Tex-Mex. Munch hunger away!",
-          "image": "Nachos_CCD.jpg",
+          "image": "./Resource/Nachos_CCD.jpg",
           "price": "160"
         },
         {
@@ -477,7 +456,7 @@
           "name": "Peppy Chicken Roll",
           "position": 1,
           "description": "Peppery chicken with crunchy juliennes of capsicum and red onion in a delicious Malabar egg paratha. Yes, that's how we roll.",
-          "image": "Peppy-Chicken-Roll_1_CCD.jpg",
+          "image": "./Resource/Peppy-Chicken-Roll_1_CCD.jpg",
           "price": "170"
         },
         {
@@ -485,7 +464,7 @@
           "name": "Smoked Chicken Sandwich",
           "position": 1,
           "description": "Succulent smoked chicken topped with crunchy veggies, served in a white bread topped with chipotle.",
-          "image": "Smoked-Chicken-Sandwich_2_CCD.jpg",
+          "image": "./Resource/Smoked-Chicken-Sandwich_2_CCD.jpg",
           "price": "180"
         },
         {
@@ -493,7 +472,7 @@
           "name": "Sizzle Dazzle Brownie",
           "position": 1,
           "description": "Sizzling hot gooey choco brownie served with vanilla ice cream and choco sauce.",
-          "image": "sizzle-dazzle-brownie_(2)_CCD.jpg",
+          "image": "./Resource/sizzle-dazzle-brownie_(2)_CCD.jpg",
           "price": "190"
         },
         {
@@ -501,42 +480,42 @@
           "name": "Aztec Single Origin Coffee",
           "position": 1,
           "description": "A delightful international gourment blend that includes a double shot of espresso brewed from a blend of imported coffee beans topped with steamed and foamed milk.",
-          "image": "Aztec-Ethiopian_0_CCD.jpg",
+          "image": "./Resource/Aztec-Ethiopian_0_CCD.jpg",
           "price": "200"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Delhi",
       "Address": "Khasra 258, Lane 3, Westend Marg, Saidulajab, Saket, Delhi",
       "Locality": "Saket",
-      "Locality Verbose": "Saket, Delhi",
+      "LocalityVerbose": "Saket, Delhi",
       "Longitude": "77.200089",
       "Latitude": "28.5173033",
       "Cuisines": "Cafe",
-      "Average Cost for two": "350",
+      "AverageCost": "350",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "Yes",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "1",
-      "Aggregate rating": "4.4",
-      "Rating color": "Green",
-      "Rating text": "Very Good",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "Yes",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "1",
+      "AggregateRating": "4.4",
+      "RatingColor": "Green",
+      "RatingText": "Very Good",
       "Votes": "269"
     },
     {
-      "Restaurant ID": "1006",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Dominos",
-      "restaurant-images": "new_margherita_pizza.jpg",
+      "RestaurantID": "1006",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Dominos",
+      "restaurantImages": "./Resource/new_margherita_pizza.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Margherita",
           "position": 1,
           "description": "Classic delight with 100% real mozzarella cheese",
-          "image": "new_margherita_pizza.jpg",
+          "image": "./Resource/new_margherita_pizza.jpg",
           "price": "100"
         },
         {
@@ -544,7 +523,7 @@
           "name": "Farmhouse",
           "position": 1,
           "description": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
-          "image": "farmhouse_pizza.jpg",
+          "image": "./Resource/farmhouse_pizza.jpg",
           "price": "110"
         },
         {
@@ -552,7 +531,7 @@
           "name": "Peppy Paneer",
           "position": 1,
           "description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika",
-          "image": "new_peppy_paneer_pizza.jpg",
+          "image": "./Resource/new_peppy_paneer_pizza.jpg",
           "price": "120"
         },
         {
@@ -560,7 +539,7 @@
           "name": "Veg Extravaganza",
           "position": 1,
           "description": "Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese",
-          "image": "new_veg_extravaganza_pizza.jpg",
+          "image": "./Resource/new_veg_extravaganza_pizza.jpg",
           "price": "130"
         },
         {
@@ -568,7 +547,7 @@
           "name": "Veggie Paradise",
           "position": 1,
           "description": "The awesome foursome! Golden corn, black olives, capsicum, red paprikae",
-          "image": "new_veggie_paradise_pizza.jpg",
+          "image": "./Resource/new_veggie_paradise_pizza.jpg",
           "price": "140"
         },
         {
@@ -576,7 +555,7 @@
           "name": "Cheese n Corn",
           "position": 1,
           "description": "A delectable combination of sweet & juicy golden corn",
-          "image": "new_cheese_n_corn_pizza.jpg",
+          "image": "./Resource/new_cheese_n_corn_pizza.jpg",
           "price": "150"
         },
         {
@@ -584,7 +563,7 @@
           "name": "Pepper Barbecue Chicken",
           "position": 1,
           "description": "Pepper barbecue chicken for that extra zing",
-          "image": "new_pepper_barbeque_chicken_pizza.jpg",
+          "image": "./Resource/new_pepper_barbeque_chicken_pizza.jpg",
           "price": "160"
         },
         {
@@ -592,42 +571,42 @@
           "name": "Chicken Sausage",
           "position": 1,
           "description": "American classic! Spicy, herbed chicken sausage on pizza",
-          "image": "new_chicken_sausage_pizza.jpg",
+          "image": "./Resource/new_chicken_sausage_pizza.jpg",
           "price": "170"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Gurgoan",
       "Address": "Shop 31, Ashirwaad Complex, Opposite Pathways School, Sector 104 , Gurgoan",
       "Locality": "Sector 110",
-      "Locality Verbose": "Sector 110, Gurgoan",
+      "LocalityVerbose": "Sector 110, Gurgoan",
       "Longitude": "77.36621249",
       "Latitude": "28.53921168",
       "Cuisines": "Cafe",
-      "Average Cost for two": "850",
+      "AverageCost": "850",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "Yes",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "2",
-      "Aggregate rating": "3.6",
-      "Rating color": "Yellow",
-      "Rating text": "Good",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "Yes",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "2",
+      "AggregateRating": "3.6",
+      "RatingColor": "Yellow",
+      "RatingText": "Good",
       "Votes": "56"
     },
     {
-      "Restaurant ID": "1007",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Raghav Ki Rasoi",
-      "restaurant-images": "NI.jpeg",
+      "RestaurantID": "1007",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Raghav Ki Rasoi",
+      "restaurantImages": "./Resource/NI.jpeg",
       "menu-items": [
         {
           "id": "1",
           "name": "Panner Reshmi Seekh",
           "position": 1,
           "description": "Capsicum,Honey,Pineapple, tasty combination of sweet and spicy",
-          "image": "download_NI.jpeg",
+          "image": "./Resource/download_NI.jpeg",
           "price": "100"
         },
         {
@@ -635,7 +614,7 @@
           "name": "Soya Malai Tikka",
           "position": 1,
           "description": "Delicious veg soya chaap in a creamy thick sauce",
-          "image": "maxresdefault_NI.jpg",
+          "image": "./Resource/maxresdefault_NI.jpg",
           "price": "110"
         },
         {
@@ -643,7 +622,7 @@
           "name": "Ajwain Fish Tikka",
           "position": 1,
           "description": "Spicy Fish Tikka preparation marinated with a combination of yogurt and spices infused with a slight",
-          "image": "fish_tikka_NI.jpegg",
+          "image": "./Resource/fish_tikka_NI.jpegg",
           "price": "120"
         },
         {
@@ -651,7 +630,7 @@
           "name": "Thai Chicken Curry",
           "position": 1,
           "description": "This fragrant Thai chicken curry is a one-pan dish that comes together in just 30 minutes.",
-          "image": "Thai-Red-Curry-Chicken-2_NI.jpg",
+          "image": "./Resource/Thai-Red-Curry-Chicken-2_NI.jpg",
           "price": "130"
         },
         {
@@ -659,7 +638,7 @@
           "name": "Butter Chicken",
           "position": 1,
           "description": "Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplified and cooked",
-          "image": "Butter_chicken_NI.jpeg",
+          "image": "./Resource/Butter_chicken_NI.jpeg",
           "price": "140"
         },
         {
@@ -667,7 +646,7 @@
           "name": "Makai Palak",
           "position": 1,
           "description": "In this corn palak recipe, boiled sweet corns kernels are added into vibrant green looking spinach",
-          "image": "big_palak_corn_subzi-7336_NI.jpg",
+          "image": "./Resource/big_palak_corn_subzi-7336_NI.jpg",
           "price": "150"
         },
         {
@@ -675,7 +654,7 @@
           "name": "Dal Makhani & Jeera Rice",
           "position": 1,
           "description": "simply tasty delicious dal makhani & jeera rice",
-          "image": "dal_rice_NI.jpeg",
+          "image": "./Resource/dal_rice_NI.jpeg",
           "price": "160"
         },
         {
@@ -683,42 +662,42 @@
           "name": "Mutton Rogan Josh",
           "position": 1,
           "description": "Mutton Rogan Josh is a tasty and delicious recipe from the Kashmiri cuisine",
-          "image": "Mutton Rogan Josh_NI.JPG",
+          "image": "./Resource/Mutton Rogan Josh_NI.JPG",
           "price": "170"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Gurgoan",
       "Address": "Z 148, Main Road, Sector 12, Gurgoan",
       "Locality": "Sector 12",
-      "Locality Verbose": "Sector 12, Gurgoan",
+      "LocalityVerbose": "Sector 12, Gurgoan",
       "Longitude": "77.3441147",
       "Latitude": "28.5982082",
       "Cuisines": "North Indian",
-      "Average Cost for two": "350",
+      "AverageCost": "350",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "Yes",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "1",
-      "Aggregate rating": "0",
-      "Rating color": "White",
-      "Rating text": "Not rated",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "Yes",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "1",
+      "AggregateRating": "0",
+      "RatingColor": "White",
+      "RatingText": "Not rated",
       "Votes": "0"
     },
     {
-      "Restaurant ID": "1008",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Cafe Coffee Day",
-      "restaurant-images": "cafe6.jpg",
+      "RestaurantID": "1008",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Cafe Coffee Day",
+      "restaurantImages": "./Resource/cafe6.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Black Forrest Cake",
           "position": 1,
           "description": "Black Forrest Cake smothered with old-fashioned whipped cream and topped off with juicy cherries",
-          "image": "500x378-black-forest-cake_0_CCD.jpg",
+          "image": "./Resource/500x378-black-forest-cake_0_CCD.jpg",
           "price": "100"
         },
         {
@@ -726,7 +705,7 @@
           "name": "Chilli Cheese Toastizza",
           "position": 1,
           "description": "Get cheesy with this crispy toast topped with onions, tomatoes and capsicum, loaded with cheese and sprinkled with chilli flakes.",
-          "image": "Chilli-Cheese-Toastizza_2_CCD.jpg",
+          "image": "./Resource/Chilli-Cheese-Toastizza_2_CCD.jpg",
           "price": "110"
         },
         {
@@ -734,7 +713,7 @@
           "name": "Cocoa Fantasy Pastry",
           "position": 1,
           "description": "Classic chocolate pre sliced pastry with cream & cocoa vermicelli.",
-          "image": "836x663-Coco-Slice_CCD.jpg",
+          "image": "./Resource/836x663-Coco-Slice_CCD.jpg",
           "price": "120"
         },
         {
@@ -742,7 +721,7 @@
           "name": "Crispy Veg Wrap",
           "position": 1,
           "description": "We made veggies taste good. You can thank us later.",
-          "image": "CrispyVeg_2_CCD.jpg",
+          "image": "./Resource/CrispyVeg_2_CCD.jpg",
           "price": "130"
         },
         {
@@ -750,7 +729,7 @@
           "name": "Garlic Bread",
           "position": 1,
           "description": "Buttery rich goodness infused with garlic. You won't be able to resist it!",
-          "image": "Garlic-Bread_2_CCD.jpg",
+          "image": "./Resource/Garlic-Bread_2_CCD.jpg",
           "price": "140"
         },
         {
@@ -758,7 +737,7 @@
           "name": "Munch-On Nachos",
           "position": 1,
           "description": "The crispiest of corn chips pampered with salsa from the land of Tex-Mex. Munch hunger away!",
-          "image": "Nachos_CCD.jpg",
+          "image": "./Resource/Nachos_CCD.jpg",
           "price": "150"
         },
         {
@@ -766,7 +745,7 @@
           "name": "Peppy Chicken Roll",
           "position": 1,
           "description": "Peppery chicken with crunchy juliennes of capsicum and red onion in a delicious Malabar egg paratha. Yes, that's how we roll.",
-          "image": "Peppy-Chicken-Roll_1_CCD.jpg",
+          "image": "./Resource/Peppy-Chicken-Roll_1_CCD.jpg",
           "price": "160"
         },
         {
@@ -774,7 +753,7 @@
           "name": "Smoked Chicken Sandwich",
           "position": 1,
           "description": "Succulent smoked chicken topped with crunchy veggies, served in a white bread topped with chipotle.",
-          "image": "Smoked-Chicken-Sandwich_2_CCD.jpg",
+          "image": "./Resource/Smoked-Chicken-Sandwich_2_CCD.jpg",
           "price": "170"
         },
         {
@@ -782,7 +761,7 @@
           "name": "Sizzle Dazzle Brownie",
           "position": 1,
           "description": "Sizzling hot gooey choco brownie served with vanilla ice cream and choco sauce.",
-          "image": "sizzle-dazzle-brownie_(2)_CCD.jpg",
+          "image": "./Resource/sizzle-dazzle-brownie_(2)_CCD.jpg",
           "price": "180"
         },
         {
@@ -790,42 +769,42 @@
           "name": "Aztec Single Origin Coffee",
           "position": 1,
           "description": "A delightful international gourment blend that includes a double shot of espresso brewed from a blend of imported coffee beans topped with steamed and foamed milk.",
-          "image": "Aztec-Ethiopian_0_CCD.jpg",
+          "image": "./Resource/Aztec-Ethiopian_0_CCD.jpg",
           "price": "190"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Gurgoan",
       "Address": "IT Towers, Plot 24, Sector 16-A, Near Sector 16, Sector 16, Gurgoan",
       "Locality": "Sector 16",
-      "Locality Verbose": "Sector 16, Gurgoan",
+      "LocalityVerbose": "Sector 16, Gurgoan",
       "Longitude": "0",
       "Latitude": "0",
       "Cuisines": "Cafe",
-      "Average Cost for two": "450",
+      "AverageCost": "450",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "1",
-      "Aggregate rating": "0",
-      "Rating color": "White",
-      "Rating text": "Not rated",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "1",
+      "AggregateRating": "0",
+      "RatingColor": "White",
+      "RatingText": "Not rated",
       "Votes": "2"
     },
     {
-      "Restaurant ID": "1009",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Barbeque Nation",
-      "restaurant-images": "barbeque_res.jpeg",
+      "RestaurantID": "1009",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Barbeque Nation",
+      "restaurantImages": "./Resource/barbeque_res.jpeg",
       "menu-items": [
         {
           "id": "1",
           "name": "Panner Reshmi Seekh",
           "position": 1,
           "description": "Capsicum,Honey,Pineapple, tasty combination of sweet and spicy",
-          "image": "download_NI.jpeg",
+          "image": "./Resource/download_NI.jpeg",
           "price": "10"
         },
         {
@@ -833,7 +812,7 @@
           "name": "Soya Malai Tikka",
           "position": 1,
           "description": "Delicious veg soya chaap in a creamy thick sauce",
-          "image": "maxresdefault_NI.jpg",
+          "image": "./Resource/maxresdefault_NI.jpg",
           "price": "10"
         },
         {
@@ -841,7 +820,7 @@
           "name": "Ajwain Fish Tikka",
           "position": 1,
           "description": "Spicy Fish Tikka preparation marinated with a combination of yogurt and spices infused with a slight",
-          "image": "fish_tikka_NI.jpegg",
+          "image": "./Resource/fish_tikka_NI.jpegg",
           "price": "10"
         },
         {
@@ -849,7 +828,7 @@
           "name": "Thai Chicken Curry",
           "position": 1,
           "description": "This fragrant Thai chicken curry is a one-pan dish that comes together in just 30 minutes.",
-          "image": "Thai-Red-Curry-Chicken-2_NI.jpg",
+          "image": "./Resource/Thai-Red-Curry-Chicken-2_NI.jpg",
           "price": "10"
         },
         {
@@ -857,7 +836,7 @@
           "name": "Butter Chicken",
           "position": 1,
           "description": "Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplified and cooked",
-          "image": "Butter_chicken_NI.jpeg",
+          "image": "./Resource/Butter_chicken_NI.jpeg",
           "price": "10"
         },
         {
@@ -865,7 +844,7 @@
           "name": "Makai Palak",
           "position": 1,
           "description": "In this corn palak recipe, boiled sweet corns kernels are added into vibrant green looking spinach",
-          "image": "big_palak_corn_subzi-7336_NI.jpg",
+          "image": "./Resource/big_palak_corn_subzi-7336_NI.jpg",
           "price": "10"
         },
         {
@@ -873,7 +852,7 @@
           "name": "Dal Makhani & Jeera Rice",
           "position": 1,
           "description": "simply tasty delicious dal makhani & jeera rice",
-          "image": "dal_rice_NI.jpeg",
+          "image": "./Resource/dal_rice_NI.jpeg",
           "price": "10"
         },
         {
@@ -881,7 +860,7 @@
           "name": "Mutton Rogan Josh",
           "position": 1,
           "description": "Mutton Rogan Josh is a tasty and delicious recipe from the Kashmiri cuisine",
-          "image": "Mutton Rogan Josh_NI.JPG",
+          "image": "./Resource/Mutton Rogan Josh_NI.JPG",
           "price": "10"
         },
         {
@@ -889,7 +868,7 @@
           "name": "Noodles",
           "position": 1,
           "description": "Egg Noodles is a Chinese dish made using eggs, noodles and veggies like cabbage, onion and carrot",
-          "image": "Noodles_C.jpg",
+          "image": "./Resource/Noodles_C.jpg",
           "price": "10"
         },
         {
@@ -897,7 +876,7 @@
           "name": "Hong Kong Fried Rice",
           "position": 1,
           "description": "Hong Kong style fried rice, the way hawkers do it!",
-          "image": "Fried_Rice.jpeg",
+          "image": "./Resource/Fried_Rice.jpeg",
           "price": "10"
         },
         {
@@ -905,7 +884,7 @@
           "name": "American Chop Seuy",
           "position": 1,
           "description": "One of the most popular and tasty fusion recipe is veg American chopsuey.",
-          "image": "veg-american-chopsuey-recipe-1_C.jpg",
+          "image": "./Resource/veg-american-chopsuey-recipe-1_C.jpg",
           "price": "10"
         },
         {
@@ -913,7 +892,7 @@
           "name": "Veg Manchow Soup",
           "position": 1,
           "description": "its a delicious vegan soup recipe made by cooking finely chopped vegetables in a hot & spicy flavour",
-          "image": "Veg-Manchow-Soup-recipe_C.jpg",
+          "image": "./Resource/Veg-Manchow-Soup-recipe_C.jpg",
           "price": "10"
         },
         {
@@ -921,7 +900,7 @@
           "name": "Fried Chicken Manchurium",
           "position": 1,
           "description": "Fried chicken in manchurian sauce, a popular Indian Chinese appetizer also served as a side",
-          "image": "garlic_Chicken_C.jpg",
+          "image": "./Resource/garlic_Chicken_C.jpg",
           "price": "10"
         },
         {
@@ -929,42 +908,42 @@
           "name": "Dragon Chicken",
           "position": 1,
           "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
-          "image": "Dragon-Chicken-Recipe_C.jpg",
+          "image": "./Resource/Dragon-Chicken-Recipe_C.jpg",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Gurgoan",
       "Address": "A-79-A, Ground Floor, Hotel Savoy Suites, Sector 16, Gurgoan",
       "Locality": "Sector 16",
-      "Locality Verbose": "Sector 16, Gurgoan",
+      "LocalityVerbose": "Sector 16, Gurgoan",
       "Longitude": "77.3153216",
       "Latitude": "28.5801189",
       "Cuisines": "North Indian, Chinese",
-      "Average Cost for two": "1600",
+      "AverageCost": "1600",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "3",
-      "Aggregate rating": "4.3",
-      "Rating color": "Green",
-      "Rating text": "Very Good",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "3",
+      "AggregateRating": "4.3",
+      "RatingColor": "Green",
+      "RatingText": "Very Good",
       "Votes": "1670"
     },
     {
-      "Restaurant ID": "10010",
-      "Restaurant password": "12345",
-      "Restaurant Name": "PS Wah Bhai Wah",
-      "restaurant-images": "res_1.jpg",
+      "RestaurantID": "10010",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "PS Wah Bhai Wah",
+      "restaurantImages": "./Resource/res_1.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Panner Reshmi Seekh",
           "position": 1,
           "description": "Capsicum,Honey,Pineapple, tasty combination of sweet and spicy",
-          "image": "download_NI.jpeg",
+          "image": "./Resource/download_NI.jpeg",
           "price": "10"
         },
         {
@@ -972,7 +951,7 @@
           "name": "Soya Malai Tikka",
           "position": 1,
           "description": "Delicious veg soya chaap in a creamy thick sauce",
-          "image": "maxresdefault_NI.jpg",
+          "image": "./Resource/maxresdefault_NI.jpg",
           "price": "10"
         },
         {
@@ -980,7 +959,7 @@
           "name": "Ajwain Fish Tikka",
           "position": 1,
           "description": "Spicy Fish Tikka preparation marinated with a combination of yogurt and spices infused with a slight",
-          "image": "fish_tikka_NI.jpegg",
+          "image": "./Resource/fish_tikka_NI.jpegg",
           "price": "10"
         },
         {
@@ -988,7 +967,7 @@
           "name": "Thai Chicken Curry",
           "position": 1,
           "description": "This fragrant Thai chicken curry is a one-pan dish that comes together in just 30 minutes.",
-          "image": "Thai-Red-Curry-Chicken-2_NI.jpg",
+          "image": "./Resource/Thai-Red-Curry-Chicken-2_NI.jpg",
           "price": "10"
         },
         {
@@ -996,7 +975,7 @@
           "name": "Butter Chicken",
           "position": 1,
           "description": "Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplified and cooked",
-          "image": "Butter_chicken_NI.jpeg",
+          "image": "./Resource/Butter_chicken_NI.jpeg",
           "price": "10"
         },
         {
@@ -1004,7 +983,7 @@
           "name": "Makai Palak",
           "position": 1,
           "description": "In this corn palak recipe, boiled sweet corns kernels are added into vibrant green looking spinach",
-          "image": "big_palak_corn_subzi-7336_NI.jpg",
+          "image": "./Resource/big_palak_corn_subzi-7336_NI.jpg",
           "price": "10"
         },
         {
@@ -1012,7 +991,7 @@
           "name": "Dal Makhani & Jeera Rice",
           "position": 1,
           "description": "simply tasty delicious dal makhani & jeera rice",
-          "image": "dal_rice_NI.jpeg",
+          "image": "./Resource/dal_rice_NI.jpeg",
           "price": "10"
         },
         {
@@ -1020,7 +999,7 @@
           "name": "Mutton Rogan Josh",
           "position": 1,
           "description": "Mutton Rogan Josh is a tasty and delicious recipe from the Kashmiri cuisine",
-          "image": "Mutton Rogan Josh_NI.JPG",
+          "image": "./Resource/Mutton Rogan Josh_NI.JPG",
           "price": "10"
         },
         {
@@ -1028,7 +1007,7 @@
           "name": "Noodles",
           "position": 1,
           "description": "Egg Noodles is a Chinese dish made using eggs, noodles and veggies like cabbage, onion and carrot",
-          "image": "Noodles_C.jpg",
+          "image": "./Resource/Noodles_C.jpg",
           "price": "10"
         },
         {
@@ -1036,7 +1015,7 @@
           "name": "Hong Kong Fried Rice",
           "position": 1,
           "description": "Hong Kong style fried rice, the way hawkers do it!",
-          "image": "Fried_Rice.jpeg",
+          "image": "./Resource/Fried_Rice.jpeg",
           "price": "10"
         },
         {
@@ -1044,7 +1023,7 @@
           "name": "American Chop Seuy",
           "position": 1,
           "description": "One of the most popular and tasty fusion recipe is veg American chopsuey.",
-          "image": "veg-american-chopsuey-recipe-1_C.jpg",
+          "image": "./Resource/veg-american-chopsuey-recipe-1_C.jpg",
           "price": "10"
         },
         {
@@ -1052,7 +1031,7 @@
           "name": "Veg Manchow Soup",
           "position": 1,
           "description": "its a delicious vegan soup recipe made by cooking finely chopped vegetables in a hot & spicy flavour",
-          "image": "Veg-Manchow-Soup-recipe_C.jpg",
+          "image": "./Resource/Veg-Manchow-Soup-recipe_C.jpg",
           "price": "10"
         },
         {
@@ -1060,7 +1039,7 @@
           "name": "Fried Chicken Manchurium",
           "position": 1,
           "description": "Fried chicken in manchurian sauce, a popular Indian Chinese appetizer also served as a side",
-          "image": "garlic_Chicken_C.jpg",
+          "image": "./Resource/garlic_Chicken_C.jpg",
           "price": "10"
         },
         {
@@ -1068,42 +1047,42 @@
           "name": "Dragon Chicken",
           "position": 1,
           "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
-          "image": "Dragon-Chicken-Recipe_C.jpg",
+          "image": "./Resource/Dragon-Chicken-Recipe_C.jpg",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Gurgoan",
       "Address": "B-1/6, Ground Floor, Near Metro Station, Sector 18, Gurgoan",
       "Locality": "Sector 18",
-      "Locality Verbose": "Sector 18, Gurgoan",
+      "LocalityVerbose": "Sector 18, Gurgoan",
       "Longitude": "77.32570108",
       "Latitude": "28.57088023",
       "Cuisines": "North Indian, Chinese",
-      "Average Cost for two": "700",
+      "AverageCost": "700",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "Yes",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "2",
-      "Aggregate rating": "2.6",
-      "Rating color": "Orange",
-      "Rating text": "Average",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "Yes",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "2",
+      "AggregateRating": "2.6",
+      "RatingColor": "Orange",
+      "RatingText": "Average",
       "Votes": "89"
     },
     {
-      "Restaurant ID": "10011",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Anand Food Factory",
-      "restaurant-images": "res_1.jpg",
+      "RestaurantID": "10011",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Anand Food Factory",
+      "restaurantImages": "./Resource/res_1.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Panner Reshmi Seekh",
           "position": 1,
           "description": "Capsicum,Honey,Pineapple, tasty combination of sweet and spicy",
-          "image": "download_NI.jpeg",
+          "image": "./Resource/download_NI.jpeg",
           "price": "10"
         },
         {
@@ -1111,7 +1090,7 @@
           "name": "Soya Malai Tikka",
           "position": 1,
           "description": "Delicious veg soya chaap in a creamy thick sauce",
-          "image": "maxresdefault_NI.jpg",
+          "image": "./Resource/maxresdefault_NI.jpg",
           "price": "10"
         },
         {
@@ -1119,7 +1098,7 @@
           "name": "Ajwain Fish Tikka",
           "position": 1,
           "description": "Spicy Fish Tikka preparation marinated with a combination of yogurt and spices infused with a slight",
-          "image": "fish_tikka_NI.jpeg",
+          "image": "./Resource/fish_tikka_NI.jpeg",
           "price": "10"
         },
         {
@@ -1127,7 +1106,7 @@
           "name": "Thai Chicken Curry",
           "position": 1,
           "description": "This fragrant Thai chicken curry is a one-pan dish that comes together in just 30 minutes.",
-          "image": "Thai-Red-Curry-Chicken-2_NI.jpg",
+          "image": "./Resource/Thai-Red-Curry-Chicken-2_NI.jpg",
           "price": "10"
         },
         {
@@ -1135,7 +1114,7 @@
           "name": "Butter Chicken",
           "position": 1,
           "description": "Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplified and cooked",
-          "image": "Butter_chicken_NI.jpeg",
+          "image": "./Resource/Butter_chicken_NI.jpeg",
           "price": "10"
         },
         {
@@ -1143,7 +1122,7 @@
           "name": "Makai Palak",
           "position": 1,
           "description": "In this corn palak recipe, boiled sweet corns kernels are added into vibrant green looking spinach",
-          "image": "big_palak_corn_subzi-7336_NI.jpg",
+          "image": "./Resource/big_palak_corn_subzi-7336_NI.jpg",
           "price": "10"
         },
         {
@@ -1151,7 +1130,7 @@
           "name": "Dal Makhani & Jeera Rice",
           "position": 1,
           "description": "simply tasty delicious dal makhani & jeera rice",
-          "image": "dal_rice_NI.jpeg",
+          "image": "./Resource/dal_rice_NI.jpeg",
           "price": "10"
         },
         {
@@ -1159,42 +1138,42 @@
           "name": "Mutton Rogan Josh",
           "position": 1,
           "description": "Mutton Rogan Josh is a tasty and delicious recipe from the Kashmiri cuisine",
-          "image": "Mutton Rogan Josh_NI.JPG",
+          "image": "./Resource/Mutton Rogan Josh_NI.JPG",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Gurgoan",
       "Address": "C-68, Sector-2, Gurgoan",
       "Locality": "Sector 2",
-      "Locality Verbose": "Sector 2, Gurgoan",
+      "LocalityVerbose": "Sector 2, Gurgoan",
       "Longitude": "77.3143909",
       "Latitude": "28.5837833",
       "Cuisines": "North Indian",
-      "Average Cost for two": "300",
+      "AverageCost": "300",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "1",
-      "Aggregate rating": "2.9",
-      "Rating color": "Orange",
-      "Rating text": "Average",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "1",
+      "AggregateRating": "2.9",
+      "RatingColor": "Orange",
+      "RatingText": "Average",
       "Votes": "4"
     },
     {
-      "Restaurant ID": "10012",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Nirula's",
-      "restaurant-images": "maurya_res.jpg",
+      "RestaurantID": "10012",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Nirula's",
+      "restaurantImages": "./Resource/maurya_res.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Panner Reshmi Seekh",
           "position": 1,
           "description": "Capsicum,Honey,Pineapple, tasty combination of sweet and spicy",
-          "image": "download_NI.jpeg",
+          "image": "./Resource/download_NI.jpeg",
           "price": "10"
         },
         {
@@ -1202,7 +1181,7 @@
           "name": "Soya Malai Tikka",
           "position": 1,
           "description": "Delicious veg soya chaap in a creamy thick sauce",
-          "image": "maxresdefault_NI.jpg",
+          "image": "./Resource/maxresdefault_NI.jpg",
           "price": "10"
         },
         {
@@ -1210,7 +1189,7 @@
           "name": "Ajwain Fish Tikka",
           "position": 1,
           "description": "Spicy Fish Tikka preparation marinated with a combination of yogurt and spices infused with a slight",
-          "image": "fish_tikka_NI.jpegg",
+          "image": "./Resource/fish_tikka_NI.jpegg",
           "price": "10"
         },
         {
@@ -1218,7 +1197,7 @@
           "name": "Thai Chicken Curry",
           "position": 1,
           "description": "This fragrant Thai chicken curry is a one-pan dish that comes together in just 30 minutes.",
-          "image": "Thai-Red-Curry-Chicken-2_NI.jpg",
+          "image": "./Resource/Thai-Red-Curry-Chicken-2_NI.jpg",
           "price": "10"
         },
         {
@@ -1226,7 +1205,7 @@
           "name": "Butter Chicken",
           "position": 1,
           "description": "Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplified and cooked",
-          "image": "Butter_chicken_NI.jpeg",
+          "image": "./Resource/Butter_chicken_NI.jpeg",
           "price": "10"
         },
         {
@@ -1234,7 +1213,7 @@
           "name": "Makai Palak",
           "position": 1,
           "description": "In this corn palak recipe, boiled sweet corns kernels are added into vibrant green looking spinach",
-          "image": "big_palak_corn_subzi-7336_NI.jpg",
+          "image": "./Resource/big_palak_corn_subzi-7336_NI.jpg",
           "price": "10"
         },
         {
@@ -1242,7 +1221,7 @@
           "name": "Dal Makhani & Jeera Rice",
           "position": 1,
           "description": "simply tasty delicious dal makhani & jeera rice",
-          "image": "dal_rice_NI.jpeg",
+          "image": "./Resource/dal_rice_NI.jpeg",
           "price": "10"
         },
         {
@@ -1250,42 +1229,42 @@
           "name": "Mutton Rogan Josh",
           "position": 1,
           "description": "Mutton Rogan Josh is a tasty and delicious recipe from the Kashmiri cuisine",
-          "image": "Mutton Rogan Josh_NI.JPG",
+          "image": "./Resource/Mutton Rogan Josh_NI.JPG",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Gurgoan",
       "Address": "C-135, Near Sector 15 Metro Station, Sector 2, Gurgoan",
       "Locality": "Sector 2",
-      "Locality Verbose": "Sector 2, Gurgoan",
+      "LocalityVerbose": "Sector 2, Gurgoan",
       "Longitude": "77.3135127",
       "Latitude": "28.5822486",
       "Cuisines": "North Indian",
-      "Average Cost for two": "1100",
+      "AverageCost": "1100",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "Yes",
-      "Has Online delivery": "Yes",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "3",
-      "Aggregate rating": "2.5",
-      "Rating color": "Orange",
-      "Rating text": "Average",
+      "HasTableBooking": "Yes",
+      "HasOnlineDelivery": "Yes",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "3",
+      "AggregateRating": "2.5",
+      "RatingColor": "Orange",
+      "RatingText": "Average",
       "Votes": "221"
     },
     {
-      "Restaurant ID": "10013",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Olive Kitchen",
-      "restaurant-images": "res_1.jpg",
+      "RestaurantID": "10013",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Olive Kitchen",
+      "restaurantImages": "./Resource/res_1.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Panner Reshmi Seekh",
           "position": 1,
           "description": "Capsicum,Honey,Pineapple, tasty combination of sweet and spicy",
-          "image": "download_NI.jpeg",
+          "image": "./Resource/download_NI.jpeg",
           "price": "10"
         },
         {
@@ -1293,7 +1272,7 @@
           "name": "Soya Malai Tikka",
           "position": 1,
           "description": "Delicious veg soya chaap in a creamy thick sauce",
-          "image": "maxresdefault_NI.jpg",
+          "image": "./Resource/maxresdefault_NI.jpg",
           "price": "10"
         },
         {
@@ -1301,7 +1280,7 @@
           "name": "Ajwain Fish Tikka",
           "position": 1,
           "description": "Spicy Fish Tikka preparation marinated with a combination of yogurt and spices infused with a slight",
-          "image": "fish_tikka_NI.jpegg",
+          "image": "./Resource/fish_tikka_NI.jpegg",
           "price": "10"
         },
         {
@@ -1309,7 +1288,7 @@
           "name": "Thai Chicken Curry",
           "position": 1,
           "description": "This fragrant Thai chicken curry is a one-pan dish that comes together in just 30 minutes.",
-          "image": "Thai-Red-Curry-Chicken-2_NI.jpg",
+          "image": "./Resource/Thai-Red-Curry-Chicken-2_NI.jpg",
           "price": "10"
         },
         {
@@ -1317,7 +1296,7 @@
           "name": "Butter Chicken",
           "position": 1,
           "description": "Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplified and cooked",
-          "image": "Butter_chicken_NI.jpeg",
+          "image": "./Resource/Butter_chicken_NI.jpeg",
           "price": "10"
         },
         {
@@ -1325,7 +1304,7 @@
           "name": "Makai Palak",
           "position": 1,
           "description": "In this corn palak recipe, boiled sweet corns kernels are added into vibrant green looking spinach",
-          "image": "big_palak_corn_subzi-7336_NI.jpg",
+          "image": "./Resource/big_palak_corn_subzi-7336_NI.jpg",
           "price": "10"
         },
         {
@@ -1333,7 +1312,7 @@
           "name": "Dal Makhani & Jeera Rice",
           "position": 1,
           "description": "simply tasty delicious dal makhani & jeera rice",
-          "image": "dal_rice_NI.jpeg",
+          "image": "./Resource/dal_rice_NI.jpeg",
           "price": "10"
         },
         {
@@ -1341,42 +1320,42 @@
           "name": "Mutton Rogan Josh",
           "position": 1,
           "description": "Mutton Rogan Josh is a tasty and delicious recipe from the Kashmiri cuisine",
-          "image": "Mutton Rogan Josh_NI.JPG",
+          "image": "./Resource/Mutton Rogan Josh_NI.JPG",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Gurgoan",
       "Address": "82/2, F Block Market, Near INP School, Sector 20, Gurgoan",
       "Locality": "Sector 20",
-      "Locality Verbose": "Sector 20, Gurgoan",
+      "LocalityVerbose": "Sector 20, Gurgoan",
       "Longitude": "77.3332052",
       "Latitude": "28.5838546",
       "Cuisines": "North Indian",
-      "Average Cost for two": "500",
+      "AverageCost": "500",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "Yes",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "2",
-      "Aggregate rating": "2.6",
-      "Rating color": "Orange",
-      "Rating text": "Average",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "Yes",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "2",
+      "AggregateRating": "2.6",
+      "RatingColor": "Orange",
+      "RatingText": "Average",
       "Votes": "17"
     },
     {
-      "Restaurant ID": "10014",
-      "Restaurant password": "12345",
-      "Restaurant Name": "McDonald's",
-      "restaurant-images": "McD.jpg",
+      "RestaurantID": "10014",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "McDonald's",
+      "restaurantImages": "./Resource/McD.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Big Mac®",
           "position": 1,
           "description": "Mouthwatering perfection starts with two 100% pure beef patties and Big Mac sauce sandwiched between a sesame seed bun. It’s topped off with pickles, crisp shredded lettuce, finely chopped onion and American cheese.",
-          "image": "t-mcdonalds-Big-Mac_Mcd.jpg",
+          "image": "./Resource/t-mcdonalds-Big-Mac_Mcd.jpg",
           "price": "10"
         },
         {
@@ -1384,7 +1363,7 @@
           "name": "4 Piece Chicken McNuggets®",
           "position": 1,
           "description": "Our tender, juicy Chicken McNuggets are made with 100% white meat chicken and no artificial colors, flavors or preservatives.",
-          "image": "t-mcdonalds-Chicken-McNuggets-4pc_-MCD.jpg",
+          "image": "./Resource/t-mcdonalds-Chicken-McNuggets-4pc_-MCD.jpg",
           "price": "10"
         },
         {
@@ -1392,7 +1371,7 @@
           "name": "Iced Coffee",
           "position": 1,
           "description": "Refreshingly cool and made with 100% Arabica beans, cream and your choice of flavored syrups – caramel, hazelnut, French vanilla and sugar-free French vanilla.Hazelnut and Sugar-Free French Vanilla available at participating restaurants Ingredients in the Iced Coffee",
-          "image": "t-mcdonalds-Premium-Roast-Iced-Coffee-Medium_Mcd.jpg",
+          "image": "./Resource/t-mcdonalds-Premium-Roast-Iced-Coffee-Medium_Mcd.jpg",
           "price": "10"
         },
         {
@@ -1400,7 +1379,7 @@
           "name": "Big Mac®",
           "position": 1,
           "description": "Mouthwatering perfection starts with two 100% pure beef patties and Big Mac sauce sandwiched between a sesame seed bun. It’s topped off with pickles, crisp shredded lettuce, finely chopped onion and American cheese.",
-          "image": "t-mcdonalds-Big-Mac_Mcd.jpg",
+          "image": "./Resource/t-mcdonalds-Big-Mac_Mcd.jpg",
           "price": "10"
         },
         {
@@ -1408,7 +1387,7 @@
           "name": "Small World Famous Fries®",
           "position": 1,
           "description": "Our World Famous Fries® are made with premium potatoes such as the Russet Burbank and the Shepody.",
-          "image": "t-mcdonalds-fries-small_Mcd.jpg",
+          "image": "./Resource/t-mcdonalds-fries-small_Mcd.jpg",
           "price": "10"
         },
         {
@@ -1416,14 +1395,14 @@
           "name": "Big Mac®Sausage, Egg & Cheese McGriddles®",
           "position": 1,
           "description": "Sausage, Egg & Cheese McGriddles® feature soft, warm griddle cakes—with the sweet taste of maple—that hold a fluffy folded egg, savory sausage, and melty American cheese. McGriddles cakes have no artificial preservatives or flavors and no colors from artificial sources.",
-          "image": "t-mcdonalds-Sausage-Egg-Cheese-McGriddles_Mcd.jpg"
+          "image": "./Resource/t-mcdonalds-Sausage-Egg-Cheese-McGriddles_Mcd.jpg"
         },
         {
           "id": "7",
           "name": "Sausage Burrito",
           "position": 1,
           "description": "Sausage Burrito 310 Cal.310 Cal.The Sausage Burrito is McDonald's Breakfast Burrito and is loaded with fluffy scrambled egg, pork sausage, melty cheese, green chiles and onion! It's wrapped in a soft tortilla, making it the perfect grab and go breakfast.",
-          "image": "t-mcdonalds-Sausage-Burrito_Mcd.jpg",
+          "image": "./Resource/t-mcdonalds-Sausage-Burrito_Mcd.jpg",
           "price": "10"
         },
         {
@@ -1431,42 +1410,42 @@
           "name": "Mocha Frappé",
           "position": 1,
           "description": "Made with rich chocolate flavor and a hint of coffee, our Mocha Frappé is blended with ice and covered with whipped topping and chocolatey drizzle. Available in Small, Medium and Large.",
-          "image": "t-mcdonalds-Frappe-Mocha-Medium_Mcd.jpg",
+          "image": "./Resource/t-mcdonalds-Frappe-Mocha-Medium_Mcd.jpg",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Banglore",
       "Address": "BR Banglore Elphinstone, Elphinstone Picture Palace , East Gandhi Maidan, Golambar, Banglore",
       "Locality": "Golambar",
-      "Locality Verbose": "Golambar, Banglore",
+      "LocalityVerbose": "Golambar, Banglore",
       "Longitude": "85.148632",
       "Latitude": "25.617912",
       "Cuisines": "Fast Food",
-      "Average Cost for two": "500",
+      "AverageCost": "500",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "2",
-      "Aggregate rating": "3.4",
-      "Rating color": "Orange",
-      "Rating text": "Average",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "2",
+      "AggregateRating": "3.4",
+      "RatingColor": "Orange",
+      "RatingText": "Average",
       "Votes": "60"
     },
     {
-      "Restaurant ID": "10015",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Spice Court - Hotel Maurya",
-      "restaurant-images": "maurya_res.jpg",
+      "RestaurantID": "10015",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Spice Court - Hotel Maurya",
+      "restaurantImages": "./Resource/maurya_res.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Noodles",
           "position": 1,
           "description": "Egg Noodles is a Chinese dish made using eggs, noodles and veggies like cabbage, onion and carrot",
-          "image": "Noodles_C.jpg",
+          "image": "./Resource/Noodles_C.jpg",
           "price": "10"
         },
         {
@@ -1474,7 +1453,7 @@
           "name": "Hong Kong Fried Rice",
           "position": 1,
           "description": "Hong Kong style fried rice, the way hawkers do it!",
-          "image": "Fried_Rice.jpeg",
+          "image": "./Resource/Fried_Rice.jpeg",
           "price": "10"
         },
         {
@@ -1482,7 +1461,7 @@
           "name": "American Chop Seuy",
           "position": 1,
           "description": "One of the most popular and tasty fusion recipe is veg American chopsuey.",
-          "image": "veg-american-chopsuey-recipe-1_C.jpg",
+          "image": "./Resource/veg-american-chopsuey-recipe-1_C.jpg",
           "price": "10"
         },
         {
@@ -1490,7 +1469,7 @@
           "name": "Veg Manchow Soup",
           "position": 1,
           "description": "its a delicious vegan soup recipe made by cooking finely chopped vegetables in a hot & spicy flavour",
-          "image": "Veg-Manchow-Soup-recipe_C.jpg",
+          "image": "./Resource/Veg-Manchow-Soup-recipe_C.jpg",
           "price": "10"
         },
         {
@@ -1498,7 +1477,7 @@
           "name": "Fried Chicken Manchurium",
           "position": 1,
           "description": "Fried chicken in manchurian sauce, a popular Indian Chinese appetizer also served as a side",
-          "image": "garlic_Chicken_C.jpg",
+          "image": "./Resource/garlic_Chicken_C.jpg",
           "price": "10"
         },
         {
@@ -1506,7 +1485,7 @@
           "name": "Dragon Chicken",
           "position": 1,
           "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
-          "image": "Dragon-Chicken-Recipe_C.jpg",
+          "image": "./Resource/Dragon-Chicken-Recipe_C.jpg",
           "price": "10"
         },
         {
@@ -1514,7 +1493,7 @@
           "name": "Masala Dhosa Sambar",
           "position": 1,
           "description": "Instant Masala Dosha And Sambar Dal with the flavour of chennai",
-          "image": "img.png",
+          "image": "./Resource/img.png",
           "price": "10"
         },
         {
@@ -1522,7 +1501,7 @@
           "name": "Idli With Idli",
           "position": 1,
           "description": "Idli sambar is a tasty & delicious hotel style tiffin sambar that is served with idli",
-          "image": "idli-sambar-1_SI.jpg",
+          "image": "./Resource/idli-sambar-1_SI.jpg",
           "price": "10"
         },
         {
@@ -1530,7 +1509,7 @@
           "name": "Uttapam",
           "position": 1,
           "description": "Uttapam (aka Uttappa or Oothapam) is yet another healthy breakfast recipe from South Indian cuisine ",
-          "image": "uttapam_SI.jpg",
+          "image": "./Resource/uttapam_SI.jpg",
           "price": "10"
         },
         {
@@ -1538,7 +1517,7 @@
           "name": "Upma",
           "position": 1,
           "description": "Tasty South Indian upma",
-          "image": "vegetable-rava-upma_SI.png",
+          "image": "./Resource/vegetable-rava-upma_SI.png",
           "price": "10"
         },
         {
@@ -1546,7 +1525,7 @@
           "name": "Poha",
           "position": 1,
           "description": "Yummy South Indian Poha",
-          "image": "poha-recipe_SI.jpg",
+          "image": "./Resource/poha-recipe_SI.jpg",
           "price": "10"
         },
         {
@@ -1554,7 +1533,7 @@
           "name": "Lemon Rice",
           "position": 1,
           "description": "Lemony Spicy Lemon Rice",
-          "image": "Lemon-Rice-4_SI.jpg",
+          "image": "./Resource/Lemon-Rice-4_SI.jpg",
           "price": "10"
         },
         {
@@ -1562,7 +1541,7 @@
           "name": "Mysore Bonda",
           "position": 1,
           "description": "Mysore Bonda",
-          "image": "Bonda_SI.jpeg",
+          "image": "./Resource/Bonda_SI.jpeg",
           "price": "10"
         },
         {
@@ -1570,7 +1549,7 @@
           "name": "Dahi Bara",
           "position": 1,
           "description": "North Indian Dahi vada are deep fried lentil balls soaked in curd/ yogurt and topped with various Spices & Masalas",
-          "image": "dahi-vada-recipe_SI.jpg",
+          "image": "./Resource/dahi-vada-recipe_SI.jpg",
           "price": "10"
         },
         {
@@ -1578,7 +1557,7 @@
           "name": "Panner Reshmi Seekh",
           "position": 1,
           "description": "Capsicum,Honey,Pineapple, tasty combination of sweet and spicy",
-          "image": "download_NI.jpeg",
+          "image": "./Resource/download_NI.jpeg",
           "price": "10"
         },
         {
@@ -1586,7 +1565,7 @@
           "name": "Soya Malai Tikka",
           "position": 1,
           "description": "Delicious veg soya chaap in a creamy thick sauce",
-          "image": "maxresdefault_NI.jpg",
+          "image": "./Resource/maxresdefault_NI.jpg",
           "price": "10"
         },
         {
@@ -1594,7 +1573,7 @@
           "name": "Ajwain Fish Tikka",
           "position": 1,
           "description": "Spicy Fish Tikka preparation marinated with a combination of yogurt and spices infused with a slight",
-          "image": "fish_tikka_NI.jpegg",
+          "image": "./Resource/fish_tikka_NI.jpegg",
           "price": "10"
         },
         {
@@ -1602,7 +1581,7 @@
           "name": "Thai Chicken Curry",
           "position": 1,
           "description": "This fragrant Thai chicken curry is a one-pan dish that comes together in just 30 minutes.",
-          "image": "Thai-Red-Curry-Chicken-2_NI.jpg",
+          "image": "./Resource/Thai-Red-Curry-Chicken-2_NI.jpg",
           "price": "10"
         },
         {
@@ -1610,7 +1589,7 @@
           "name": "Butter Chicken",
           "position": 1,
           "description": "Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplified and cooked",
-          "image": "Butter_chicken_NI.jpeg",
+          "image": "./Resource/Butter_chicken_NI.jpeg",
           "price": "10"
         },
         {
@@ -1618,7 +1597,7 @@
           "name": "Makai Palak",
           "position": 1,
           "description": "In this corn palak recipe, boiled sweet corns kernels are added into vibrant green looking spinach",
-          "image": "big_palak_corn_subzi-7336_NI.jpg",
+          "image": "./Resource/big_palak_corn_subzi-7336_NI.jpg",
           "price": "10"
         },
         {
@@ -1626,7 +1605,7 @@
           "name": "Dal Makhani & Jeera Rice",
           "position": 1,
           "description": "simply tasty delicious dal makhani & jeera rice",
-          "image": "dal_rice_NI.jpeg",
+          "image": "./Resource/dal_rice_NI.jpeg",
           "price": "10"
         },
         {
@@ -1634,42 +1613,42 @@
           "name": "Mutton Rogan Josh",
           "position": 1,
           "description": "Mutton Rogan Josh is a tasty and delicious recipe from the Kashmiri cuisine",
-          "image": "Mutton Rogan Josh_NI.JPG",
+          "image": "./Resource/Mutton Rogan Josh_NI.JPG",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Banglore",
       "Address": "Hotel Maurya, South Gandhi Maidan, Lodipur, Banglore",
       "Locality": "Hotel Maurya, Lodipur",
-      "Locality Verbose": "Hotel Maurya, Lodipur, Banglore",
+      "LocalityVerbose": "Hotel Maurya, Lodipur, Banglore",
       "Longitude": "85.142028",
       "Latitude": "25.615025",
       "Cuisines": "North Indian,Chinese, South Indian",
-      "Average Cost for two": "1600",
+      "AverageCost": "1600",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "4",
-      "Aggregate rating": "3.7",
-      "Rating color": "Yellow",
-      "Rating text": "Good",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "4",
+      "AggregateRating": "3.7",
+      "RatingColor": "Yellow",
+      "RatingText": "Good",
       "Votes": "43"
     },
     {
-      "Restaurant ID": "10016",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Angeethi",
-      "restaurant-images": "Barbeques.jpg",
+      "RestaurantID": "10016",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Angeethi",
+      "restaurantImages": "./Resource/Barbeques.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Panner Reshmi Seekh",
           "position": 1,
           "description": "Capsicum,Honey,Pineapple, tasty combination of sweet and spicy",
-          "image": "download_NI.jpeg",
+          "image": "./Resource/download_NI.jpeg",
           "price": "10"
         },
         {
@@ -1677,7 +1656,7 @@
           "name": "Soya Malai Tikka",
           "position": 1,
           "description": "Delicious veg soya chaap in a creamy thick sauce",
-          "image": "maxresdefault_NI.jpg",
+          "image": "./Resource/maxresdefault_NI.jpg",
           "price": "10"
         },
         {
@@ -1685,7 +1664,7 @@
           "name": "Ajwain Fish Tikka",
           "position": 1,
           "description": "Spicy Fish Tikka preparation marinated with a combination of yogurt and spices infused with a slight",
-          "image": "fish_tikka_NI.jpegg",
+          "image": "./Resource/fish_tikka_NI.jpegg",
           "price": "10"
         },
         {
@@ -1693,7 +1672,7 @@
           "name": "Thai Chicken Curry",
           "position": 1,
           "description": "This fragrant Thai chicken curry is a one-pan dish that comes together in just 30 minutes.",
-          "image": "Thai-Red-Curry-Chicken-2_NI.jpg",
+          "image": "./Resource/Thai-Red-Curry-Chicken-2_NI.jpg",
           "price": "10"
         },
         {
@@ -1701,7 +1680,7 @@
           "name": "Butter Chicken",
           "position": 1,
           "description": "Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplified and cooked",
-          "image": "Butter_chicken_NI.jpeg",
+          "image": "./Resource/Butter_chicken_NI.jpeg",
           "price": "10"
         },
         {
@@ -1709,7 +1688,7 @@
           "name": "Makai Palak",
           "position": 1,
           "description": "In this corn palak recipe, boiled sweet corns kernels are added into vibrant green looking spinach",
-          "image": "big_palak_corn_subzi-7336_NI.jpg",
+          "image": "./Resource/big_palak_corn_subzi-7336_NI.jpg",
           "price": "10"
         },
         {
@@ -1717,7 +1696,7 @@
           "name": "Dal Makhani & Jeera Rice",
           "position": 1,
           "description": "simply tasty delicious dal makhani & jeera rice",
-          "image": "dal_rice_NI.jpeg",
+          "image": "./Resource/dal_rice_NI.jpeg",
           "price": "10"
         },
         {
@@ -1725,42 +1704,42 @@
           "name": "Mutton Rogan Josh",
           "position": 1,
           "description": "Mutton Rogan Josh is a tasty and delicious recipe from the Kashmiri cuisine",
-          "image": "Mutton Rogan Josh_NI.JPG",
+          "image": "./Resource/Mutton Rogan Josh_NI.JPG",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Banglore",
       "Address": "101, Gharonda Complex, Jagdeo Path Crossing, Bailey Road, Khajpura, Banglore",
       "Locality": "Khajpura",
-      "Locality Verbose": "Khajpura, Banglore",
+      "LocalityVerbose": "Khajpura, Banglore",
       "Longitude": "85.074775",
       "Latitude": "25.60662778",
       "Cuisines": "North Indian",
-      "Average Cost for two": "800",
+      "AverageCost": "800",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "3",
-      "Aggregate rating": "3.4",
-      "Rating color": "Orange",
-      "Rating text": "Average",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "3",
+      "AggregateRating": "3.4",
+      "RatingColor": "Orange",
+      "RatingText": "Average",
       "Votes": "45"
     },
     {
-      "Restaurant ID": "10017",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Red Chilli",
-      "restaurant-images": "res_1.jpg",
+      "RestaurantID": "10017",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Red Chilli",
+      "restaurantImages": "./Resource/res_1.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Panner Reshmi Seekh",
           "position": 1,
           "description": "Capsicum,Honey,Pineapple, tasty combination of sweet and spicy",
-          "image": "download_NI.jpeg",
+          "image": "./Resource/download_NI.jpeg",
           "price": "10"
         },
         {
@@ -1768,7 +1747,7 @@
           "name": "Soya Malai Tikka",
           "position": 1,
           "description": "Delicious veg soya chaap in a creamy thick sauce",
-          "image": "maxresdefault_NI.jpg",
+          "image": "./Resource/maxresdefault_NI.jpg",
           "price": "10"
         },
         {
@@ -1776,7 +1755,7 @@
           "name": "Ajwain Fish Tikka",
           "position": 1,
           "description": "Spicy Fish Tikka preparation marinated with a combination of yogurt and spices infused with a slight",
-          "image": "fish_tikka_NI.jpegg",
+          "image": "./Resource/fish_tikka_NI.jpegg",
           "price": "10"
         },
         {
@@ -1784,7 +1763,7 @@
           "name": "Thai Chicken Curry",
           "position": 1,
           "description": "This fragrant Thai chicken curry is a one-pan dish that comes together in just 30 minutes.",
-          "image": "Thai-Red-Curry-Chicken-2_NI.jpg",
+          "image": "./Resource/Thai-Red-Curry-Chicken-2_NI.jpg",
           "price": "10"
         },
         {
@@ -1792,7 +1771,7 @@
           "name": "Butter Chicken",
           "position": 1,
           "description": "Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplified and cooked",
-          "image": "Butter_chicken_NI.jpeg",
+          "image": "./Resource/Butter_chicken_NI.jpeg",
           "price": "10"
         },
         {
@@ -1800,7 +1779,7 @@
           "name": "Makai Palak",
           "position": 1,
           "description": "In this corn palak recipe, boiled sweet corns kernels are added into vibrant green looking spinach",
-          "image": "big_palak_corn_subzi-7336_NI.jpg",
+          "image": "./Resource/big_palak_corn_subzi-7336_NI.jpg",
           "price": "10"
         },
         {
@@ -1808,7 +1787,7 @@
           "name": "Dal Makhani & Jeera Rice",
           "position": 1,
           "description": "simply tasty delicious dal makhani & jeera rice",
-          "image": "dal_rice_NI.jpeg",
+          "image": "./Resource/dal_rice_NI.jpeg",
           "price": "10"
         },
         {
@@ -1816,42 +1795,42 @@
           "name": "Mutton Rogan Josh",
           "position": 1,
           "description": "Mutton Rogan Josh is a tasty and delicious recipe from the Kashmiri cuisine",
-          "image": "Mutton Rogan Josh_NI.JPG",
+          "image": "./Resource/Mutton Rogan Josh_NI.JPG",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Banglore",
       "Address": "Opposite Allahabad Bank, Ramnagri Mor, Ashiana Digha Road, Khajpura, Banglore",
       "Locality": "Khajpura",
-      "Locality Verbose": "Khajpura, Banglore",
+      "LocalityVerbose": "Khajpura, Banglore",
       "Longitude": "85.08215654",
       "Latitude": "25.61355147",
       "Cuisines": "North Indian",
-      "Average Cost for two": "450",
+      "AverageCost": "450",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "2",
-      "Aggregate rating": "3.6",
-      "Rating color": "Yellow",
-      "Rating text": "Good",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "2",
+      "AggregateRating": "3.6",
+      "RatingColor": "Yellow",
+      "RatingText": "Good",
       "Votes": "69"
     },
     {
-      "Restaurant ID": "10018",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Raj Rasoi",
-      "restaurant-images": "kaveri.jpg",
+      "RestaurantID": "10018",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Raj Rasoi",
+      "restaurantImages": "./Resource/kaveri.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Panner Reshmi Seekh",
           "position": 1,
           "description": "Capsicum,Honey,Pineapple, tasty combination of sweet and spicy",
-          "image": "download_NI.jpeg",
+          "image": "./Resource/download_NI.jpeg",
           "price": "10"
         },
         {
@@ -1859,7 +1838,7 @@
           "name": "Soya Malai Tikka",
           "position": 1,
           "description": "Delicious veg soya chaap in a creamy thick sauce",
-          "image": "maxresdefault_NI.jpg",
+          "image": "./Resource/maxresdefault_NI.jpg",
           "price": "10"
         },
         {
@@ -1867,7 +1846,7 @@
           "name": "Ajwain Fish Tikka",
           "position": 1,
           "description": "Spicy Fish Tikka preparation marinated with a combination of yogurt and spices infused with a slight",
-          "image": "fish_tikka_NI.jpegg",
+          "image": "./Resource/fish_tikka_NI.jpegg",
           "price": "10"
         },
         {
@@ -1875,7 +1854,7 @@
           "name": "Thai Chicken Curry",
           "position": 1,
           "description": "This fragrant Thai chicken curry is a one-pan dish that comes together in just 30 minutes.",
-          "image": "Thai-Red-Curry-Chicken-2_NI.jpg",
+          "image": "./Resource/Thai-Red-Curry-Chicken-2_NI.jpg",
           "price": "10"
         },
         {
@@ -1883,7 +1862,7 @@
           "name": "Butter Chicken",
           "position": 1,
           "description": "Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplified and cooked",
-          "image": "Butter_chicken_NI.jpeg",
+          "image": "./Resource/Butter_chicken_NI.jpeg",
           "price": "10"
         },
         {
@@ -1891,7 +1870,7 @@
           "name": "Makai Palak",
           "position": 1,
           "description": "In this corn palak recipe, boiled sweet corns kernels are added into vibrant green looking spinach",
-          "image": "big_palak_corn_subzi-7336_NI.jpg",
+          "image": "./Resource/big_palak_corn_subzi-7336_NI.jpg",
           "price": "10"
         },
         {
@@ -1899,7 +1878,7 @@
           "name": "Dal Makhani & Jeera Rice",
           "position": 1,
           "description": "simply tasty delicious dal makhani & jeera rice",
-          "image": "dal_rice_NI.jpeg",
+          "image": "./Resource/dal_rice_NI.jpeg",
           "price": "10"
         },
         {
@@ -1907,7 +1886,7 @@
           "name": "Mutton Rogan Josh",
           "position": 1,
           "description": "Mutton Rogan Josh is a tasty and delicious recipe from the Kashmiri cuisine",
-          "image": "Mutton Rogan Josh_NI.JPG",
+          "image": "./Resource/Mutton Rogan Josh_NI.JPG",
           "price": "10"
         },
         {
@@ -1915,7 +1894,7 @@
           "name": "Idli With Idli",
           "position": 1,
           "description": "Idli sambar is a tasty & delicious hotel style tiffin sambar that is served with idli",
-          "image": "idli-sambar-1_SI.jpg",
+          "image": "./Resource/idli-sambar-1_SI.jpg",
           "price": "10"
         },
         {
@@ -1923,7 +1902,7 @@
           "name": "Uttapam",
           "position": 1,
           "description": "Uttapam (aka Uttappa or Oothapam) is yet another healthy breakfast recipe from South Indian cuisine ",
-          "image": "uttapam_SI.jpg",
+          "image": "./Resource/uttapam_SI.jpg",
           "price": "10"
         },
         {
@@ -1931,7 +1910,7 @@
           "name": "Upma",
           "position": 1,
           "description": "Tasty South Indian upma",
-          "image": "vegetable-rava-upma_SI.png",
+          "image": "./Resource/vegetable-rava-upma_SI.png",
           "price": "10"
         },
         {
@@ -1939,7 +1918,7 @@
           "name": "Poha",
           "position": 1,
           "description": "Yummy South Indian Poha",
-          "image": "poha-recipe_SI.jpg",
+          "image": "./Resource/poha-recipe_SI.jpg",
           "price": "10"
         },
         {
@@ -1947,7 +1926,7 @@
           "name": "Lemon Rice",
           "position": 1,
           "description": "Lemony Spicy Lemon Rice",
-          "image": "Lemon-Rice-4_SI.jpg",
+          "image": "./Resource/Lemon-Rice-4_SI.jpg",
           "price": "10"
         },
         {
@@ -1955,7 +1934,7 @@
           "name": "Mysore Bonda",
           "position": 1,
           "description": "Mysore Bonda",
-          "image": "Bonda_SI.jpeg",
+          "image": "./Resource/Bonda_SI.jpeg",
           "price": "10"
         },
         {
@@ -1963,42 +1942,42 @@
           "name": "Dahi Bara",
           "position": 1,
           "description": "North Indian Dahi vada are deep fried lentil balls soaked in curd/ yogurt and topped with various Spices & Masalas",
-          "image": "dahi-vada-recipe_SI.jpg",
+          "image": "./Resource/dahi-vada-recipe_SI.jpg",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Banglore",
       "Address": "Twin Tower Hathwa, South Gandhi Maidan, Lodipur, Banglore",
       "Locality": "Lodipur",
-      "Locality Verbose": "Lodipur, Banglore",
+      "LocalityVerbose": "Lodipur, Banglore",
       "Longitude": "85.14343889",
       "Latitude": "25.61583889",
       "Cuisines": "North Indian, South Indian",
-      "Average Cost for two": "600",
+      "AverageCost": "600",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "2",
-      "Aggregate rating": "3.3",
-      "Rating color": "Orange",
-      "Rating text": "Average",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "2",
+      "AggregateRating": "3.3",
+      "RatingColor": "Orange",
+      "RatingText": "Average",
       "Votes": "74"
     },
     {
-      "Restaurant ID": "10019",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Swaaddesh",
-      "restaurant-images": "aroma_res.jpg",
+      "RestaurantID": "10019",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Swaaddesh",
+      "restaurantImages": "./Resource/aroma_res.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Panner Reshmi Seekh",
           "position": 1,
           "description": "Capsicum,Honey,Pineapple, tasty combination of sweet and spicy",
-          "image": "download_NI.jpeg",
+          "image": "./Resource/download_NI.jpeg",
           "price": "10"
         },
         {
@@ -2006,7 +1985,7 @@
           "name": "Soya Malai Tikka",
           "position": 1,
           "description": "Delicious veg soya chaap in a creamy thick sauce",
-          "image": "maxresdefault_NI.jpg",
+          "image": "./Resource/maxresdefault_NI.jpg",
           "price": "10"
         },
         {
@@ -2014,7 +1993,7 @@
           "name": "Ajwain Fish Tikka",
           "position": 1,
           "description": "Spicy Fish Tikka preparation marinated with a combination of yogurt and spices infused with a slight",
-          "image": "fish_tikka_NI.jpegg",
+          "image": "./Resource/fish_tikka_NI.jpegg",
           "price": "10"
         },
         {
@@ -2022,7 +2001,7 @@
           "name": "Thai Chicken Curry",
           "position": 1,
           "description": "This fragrant Thai chicken curry is a one-pan dish that comes together in just 30 minutes.",
-          "image": "Thai-Red-Curry-Chicken-2_NI.jpg",
+          "image": "./Resource/Thai-Red-Curry-Chicken-2_NI.jpg",
           "price": "10"
         },
         {
@@ -2030,7 +2009,7 @@
           "name": "Butter Chicken",
           "position": 1,
           "description": "Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplified and cooked",
-          "image": "Butter_chicken_NI.jpeg",
+          "image": "./Resource/Butter_chicken_NI.jpeg",
           "price": "10"
         },
         {
@@ -2038,7 +2017,7 @@
           "name": "Makai Palak",
           "position": 1,
           "description": "In this corn palak recipe, boiled sweet corns kernels are added into vibrant green looking spinach",
-          "image": "big_palak_corn_subzi-7336_NI.jpg",
+          "image": "./Resource/big_palak_corn_subzi-7336_NI.jpg",
           "price": "10"
         },
         {
@@ -2046,7 +2025,7 @@
           "name": "Dal Makhani & Jeera Rice",
           "position": 1,
           "description": "simply tasty delicious dal makhani & jeera rice",
-          "image": "dal_rice_NI.jpeg",
+          "image": "./Resource/dal_rice_NI.jpeg",
           "price": "10"
         },
         {
@@ -2054,42 +2033,42 @@
           "name": "Mutton Rogan Josh",
           "position": 1,
           "description": "Mutton Rogan Josh is a tasty and delicious recipe from the Kashmiri cuisine",
-          "image": "Mutton Rogan Josh_NI.JPG",
+          "image": "./Resource/Mutton Rogan Josh_NI.JPG",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Banglore",
       "Address": "2nd floor, chandra complex, above manyavar, boring road, Sri Krishnapuri, Banglore",
       "Locality": "Sri Krishnapuri",
-      "Locality Verbose": "Sri Krishnapuri, Banglore",
+      "LocalityVerbose": "Sri Krishnapuri, Banglore",
       "Longitude": "85.1154613",
       "Latitude": "25.61552768",
       "Cuisines": "North Indian",
-      "Average Cost for two": "700",
+      "AverageCost": "700",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "2",
-      "Aggregate rating": "3.5",
-      "Rating color": "Yellow",
-      "Rating text": "Good",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "2",
+      "AggregateRating": "3.5",
+      "RatingColor": "Yellow",
+      "RatingText": "Good",
       "Votes": "45"
     },
     {
-      "Restaurant ID": "10020",
-      "Restaurant password": "12345",
-      "Restaurant Name": "German Bakery Wunderbar",
-      "restaurant-images": "cafe6.jpg",
+      "RestaurantID": "10020",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "German Bakery Wunderbar",
+      "restaurantImages": "./Resource/cafe6.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Black Forrest Cake",
           "position": 1,
           "description": "Black Forrest Cake smothered with old-fashioned whipped cream and topped off with juicy cherries",
-          "image": "500x378-black-forest-cake_0_CCD.jpg",
+          "image": "./Resource/500x378-black-forest-cake_0_CCD.jpg",
           "price": "10"
         },
         {
@@ -2097,7 +2076,7 @@
           "name": "Chilli Cheese Toastizza",
           "position": 1,
           "description": "Get cheesy with this crispy toast topped with onions, tomatoes and capsicum, loaded with cheese and sprinkled with chilli flakes.",
-          "image": "Chilli-Cheese-Toastizza_2_CCD.jpg",
+          "image": "./Resource/Chilli-Cheese-Toastizza_2_CCD.jpg",
           "price": "10"
         },
         {
@@ -2105,7 +2084,7 @@
           "name": "Cocoa Fantasy Pastry",
           "position": 1,
           "description": "Classic chocolate pre sliced pastry with cream & cocoa vermicelli.",
-          "image": "836x663-Coco-Slice_CCD.jpg",
+          "image": "./Resource/836x663-Coco-Slice_CCD.jpg",
           "price": "10"
         },
         {
@@ -2113,7 +2092,7 @@
           "name": "Crispy Veg Wrap",
           "position": 1,
           "description": "We made veggies taste good. You can thank us later.",
-          "image": "CrispyVeg_2_CCD.jpg",
+          "image": "./Resource/CrispyVeg_2_CCD.jpg",
           "price": "10"
         },
         {
@@ -2121,7 +2100,7 @@
           "name": "Garlic Bread",
           "position": 1,
           "description": "Buttery rich goodness infused with garlic. You won't be able to resist it!",
-          "image": "Garlic-Bread_2_CCD.jpg",
+          "image": "./Resource/Garlic-Bread_2_CCD.jpg",
           "price": "10"
         },
         {
@@ -2129,7 +2108,7 @@
           "name": "Munch-On Nachos",
           "position": 1,
           "description": "The crispiest of corn chips pampered with salsa from the land of Tex-Mex. Munch hunger away!",
-          "image": "Nachos_CCD.jpg",
+          "image": "./Resource/Nachos_CCD.jpg",
           "price": "10"
         },
         {
@@ -2137,7 +2116,7 @@
           "name": "Peppy Chicken Roll",
           "position": 1,
           "description": "Peppery chicken with crunchy juliennes of capsicum and red onion in a delicious Malabar egg paratha. Yes, that's how we roll.",
-          "image": "Peppy-Chicken-Roll_1_CCD.jpg",
+          "image": "./Resource/Peppy-Chicken-Roll_1_CCD.jpg",
           "price": "10"
         },
         {
@@ -2145,7 +2124,7 @@
           "name": "Smoked Chicken Sandwich",
           "position": 1,
           "description": "Succulent smoked chicken topped with crunchy veggies, served in a white bread topped with chipotle.",
-          "image": "Smoked-Chicken-Sandwich_2_CCD.jpg",
+          "image": "./Resource/Smoked-Chicken-Sandwich_2_CCD.jpg",
           "price": "10"
         },
         {
@@ -2153,7 +2132,7 @@
           "name": "Sizzle Dazzle Brownie",
           "position": 1,
           "description": "Sizzling hot gooey choco brownie served with vanilla ice cream and choco sauce.",
-          "image": "sizzle-dazzle-brownie_(2)_CCD.jpg",
+          "image": "./Resource/sizzle-dazzle-brownie_(2)_CCD.jpg",
           "price": "10"
         },
         {
@@ -2161,42 +2140,42 @@
           "name": "Aztec Single Origin Coffee",
           "position": 1,
           "description": "A delightful international gourment blend that includes a double shot of espresso brewed from a blend of imported coffee beans topped with steamed and foamed milk.",
-          "image": "Aztec-Ethiopian_0_CCD.jpg",
+          "image": "./Resource/Aztec-Ethiopian_0_CCD.jpg",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Pune",
       "Address": "153/A, Varun Complex, Near Demech House, Law College Road, Pune",
       "Locality": "Law College Road",
-      "Locality Verbose": "Law College Road, Pune",
+      "LocalityVerbose": "Law College Road, Pune",
       "Longitude": "73.83054703",
       "Latitude": "18.52001645",
       "Cuisines": "Cafe",
-      "Average Cost for two": "1000",
+      "AverageCost": "1000",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "3",
-      "Aggregate rating": "4",
-      "Rating color": "Green",
-      "Rating text": "Very Good",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "3",
+      "AggregateRating": "4",
+      "RatingColor": "Green",
+      "RatingText": "Very Good",
       "Votes": "1583"
     },
     {
-      "Restaurant ID": "10021",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Chili's",
-      "restaurant-images": "udp.jpg",
+      "RestaurantID": "10021",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Chili's",
+      "restaurantImages": "./Resource/udp.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Noodles",
           "position": 1,
           "description": "Egg Noodles is a Chinese dish made using eggs, noodles and veggies like cabbage, onion and carrot",
-          "image": "Noodles_C.jpg",
+          "image": "./Resource/Noodles_C.jpg",
           "price": "10"
         },
         {
@@ -2204,7 +2183,7 @@
           "name": "Hong Kong Fried Rice",
           "position": 1,
           "description": "Hong Kong style fried rice, the way hawkers do it!",
-          "image": "Fried_Rice.jpeg",
+          "image": "./Resource/Fried_Rice.jpeg",
           "price": "10"
         },
         {
@@ -2212,7 +2191,7 @@
           "name": "American Chop Seuy",
           "position": 1,
           "description": "One of the most popular and tasty fusion recipe is veg American chopsuey.",
-          "image": "veg-american-chopsuey-recipe-1_C.jpg",
+          "image": "./Resource/veg-american-chopsuey-recipe-1_C.jpg",
           "price": "10"
         },
         {
@@ -2220,7 +2199,7 @@
           "name": "Veg Manchow Soup",
           "position": 1,
           "description": "its a delicious vegan soup recipe made by cooking finely chopped vegetables in a hot & spicy flavour",
-          "image": "Veg-Manchow-Soup-recipe_C.jpg",
+          "image": "./Resource/Veg-Manchow-Soup-recipe_C.jpg",
           "price": "10"
         },
         {
@@ -2228,7 +2207,7 @@
           "name": "Fried Chicken Manchurium",
           "position": 1,
           "description": "Fried chicken in manchurian sauce, a popular Indian Chinese appetizer also served as a side",
-          "image": "garlic_Chicken_C.jpg",
+          "image": "./Resource/garlic_Chicken_C.jpg",
           "price": "10"
         },
         {
@@ -2236,42 +2215,42 @@
           "name": "Dragon Chicken",
           "position": 1,
           "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
-          "image": "Dragon-Chicken-Recipe_C.jpg",
+          "image": "./Resource/Dragon-Chicken-Recipe_C.jpg",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Pune",
       "Address": "UG 49, Phoenix Market City, Nagar Road, Viman Nagar, Pune",
       "Locality": "Phoenix Market City, Viman Nagar",
-      "Locality Verbose": "Phoenix Market City, Viman Nagar, Pune",
+      "LocalityVerbose": "Phoenix Market City, Viman Nagar, Pune",
       "Longitude": "73.9166191",
       "Latitude": "18.5624502",
       "Cuisines": "Chinese",
-      "Average Cost for two": "1800",
+      "AverageCost": "1800",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "Yes",
-      "Has Online delivery": "Yes",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "3",
-      "Aggregate rating": "4.5",
-      "Rating color": "Dark Green",
-      "Rating text": "Excellent",
+      "HasTableBooking": "Yes",
+      "HasOnlineDelivery": "Yes",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "3",
+      "AggregateRating": "4.5",
+      "RatingColor": "Dark Green",
+      "RatingText": "Excellent",
       "Votes": "1439"
     },
     {
-      "Restaurant ID": "10022",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Tales & Spirits",
-      "restaurant-images": "cafe2.jpeg",
+      "RestaurantID": "10022",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Tales & Spirits",
+      "restaurantImages": "./Resource/cafe2.jpeg",
       "menu-items": [
         {
           "id": "1",
           "name": "Black Forrest Cake",
           "position": 1,
           "description": "Black Forrest Cake smothered with old-fashioned whipped cream and topped off with juicy cherries",
-          "image": "500x378-black-forest-cake_0_CCD.jpg",
+          "image": "./Resource/500x378-black-forest-cake_0_CCD.jpg",
           "price": "10"
         },
         {
@@ -2279,7 +2258,7 @@
           "name": "Chilli Cheese Toastizza",
           "position": 1,
           "description": "Get cheesy with this crispy toast topped with onions, tomatoes and capsicum, loaded with cheese and sprinkled with chilli flakes.",
-          "image": "Chilli-Cheese-Toastizza_2_CCD.jpg",
+          "image": "./Resource/Chilli-Cheese-Toastizza_2_CCD.jpg",
           "price": "10"
         },
         {
@@ -2287,7 +2266,7 @@
           "name": "Cocoa Fantasy Pastry",
           "position": 1,
           "description": "Classic chocolate pre sliced pastry with cream & cocoa vermicelli.",
-          "image": "836x663-Coco-Slice_CCD.jpg",
+          "image": "./Resource/836x663-Coco-Slice_CCD.jpg",
           "price": "10"
         },
         {
@@ -2295,7 +2274,7 @@
           "name": "Crispy Veg Wrap",
           "position": 1,
           "description": "We made veggies taste good. You can thank us later.",
-          "image": "CrispyVeg_2_CCD.jpg",
+          "image": "./Resource/CrispyVeg_2_CCD.jpg",
           "price": "10"
         },
         {
@@ -2303,7 +2282,7 @@
           "name": "Garlic Bread",
           "position": 1,
           "description": "Buttery rich goodness infused with garlic. You won't be able to resist it!",
-          "image": "Garlic-Bread_2_CCD.jpg",
+          "image": "./Resource/Garlic-Bread_2_CCD.jpg",
           "price": "10"
         },
         {
@@ -2311,7 +2290,7 @@
           "name": "Munch-On Nachos",
           "position": 1,
           "description": "The crispiest of corn chips pampered with salsa from the land of Tex-Mex. Munch hunger away!",
-          "image": "Nachos_CCD.jpg",
+          "image": "./Resource/Nachos_CCD.jpg",
           "price": "10"
         },
         {
@@ -2319,7 +2298,7 @@
           "name": "Peppy Chicken Roll",
           "position": 1,
           "description": "Peppery chicken with crunchy juliennes of capsicum and red onion in a delicious Malabar egg paratha. Yes, that's how we roll.",
-          "image": "Peppy-Chicken-Roll_1_CCD.jpg",
+          "image": "./Resource/Peppy-Chicken-Roll_1_CCD.jpg",
           "price": "10"
         },
         {
@@ -2327,7 +2306,7 @@
           "name": "Smoked Chicken Sandwich",
           "position": 1,
           "description": "Succulent smoked chicken topped with crunchy veggies, served in a white bread topped with chipotle.",
-          "image": "Smoked-Chicken-Sandwich_2_CCD.jpg",
+          "image": "./Resource/Smoked-Chicken-Sandwich_2_CCD.jpg",
           "price": "10"
         },
         {
@@ -2335,7 +2314,7 @@
           "name": "Sizzle Dazzle Brownie",
           "position": 1,
           "description": "Sizzling hot gooey choco brownie served with vanilla ice cream and choco sauce.",
-          "image": "sizzle-dazzle-brownie_(2)_CCD.jpg",
+          "image": "./Resource/sizzle-dazzle-brownie_(2)_CCD.jpg",
           "price": "10"
         },
         {
@@ -2343,42 +2322,42 @@
           "name": "Aztec Single Origin Coffee",
           "position": 1,
           "description": "A delightful international gourment blend that includes a double shot of espresso brewed from a blend of imported coffee beans topped with steamed and foamed milk.",
-          "image": "Aztec-Ethiopian_0_CCD.jpg",
+          "image": "./Resource/Aztec-Ethiopian_0_CCD.jpg",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Pune",
       "Address": "Plot 64, Shivaji Housing Society, Senapati Bapat Road, Pune",
       "Locality": "Senapati Bapat Road",
-      "Locality Verbose": "Senapati Bapat Road, Pune",
+      "LocalityVerbose": "Senapati Bapat Road, Pune",
       "Longitude": "73.8289719",
       "Latitude": "18.5309626",
       "Cuisines": "Cafe",
-      "Average Cost for two": "800",
+      "AverageCost": "800",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "Yes",
-      "Has Online delivery": "Yes",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "2",
-      "Aggregate rating": "4.1",
-      "Rating color": "Green",
-      "Rating text": "Very Good",
+      "HasTableBooking": "Yes",
+      "HasOnlineDelivery": "Yes",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "2",
+      "AggregateRating": "4.1",
+      "RatingColor": "Green",
+      "RatingText": "Very Good",
       "Votes": "997"
     },
     {
-      "Restaurant ID": "10023",
-      "Restaurant password": "12345",
-      "Restaurant Name": "The Kav's",
-      "restaurant-images": "res_1.jpg",
+      "RestaurantID": "10023",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "The Kav's",
+      "restaurantImages": "./Resource/res_1.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Masala Dhosa Sambar",
           "position": 1,
           "description": "Instant Masala Dosha And Sambar Dal with the flavour of chennai",
-          "image": "img.png",
+          "image": "./Resource/img.png",
           "price": "10"
         },
         {
@@ -2386,7 +2365,7 @@
           "name": "Idli With Idli",
           "position": 1,
           "description": "Idli sambar is a tasty & delicious hotel style tiffin sambar that is served with idli",
-          "image": "idli-sambar-1_SI.jpg",
+          "image": "./Resource/idli-sambar-1_SI.jpg",
           "price": "10"
         },
         {
@@ -2394,7 +2373,7 @@
           "name": "Uttapam",
           "position": 1,
           "description": "Uttapam (aka Uttappa or Oothapam) is yet another healthy breakfast recipe from South Indian cuisine ",
-          "image": "uttapam_SI.jpg",
+          "image": "./Resource/uttapam_SI.jpg",
           "price": "10"
         },
         {
@@ -2402,7 +2381,7 @@
           "name": "Upma",
           "position": 1,
           "description": "Tasty South Indian upma",
-          "image": "vegetable-rava-upma_SI.png",
+          "image": "./Resource/vegetable-rava-upma_SI.png",
           "price": "10"
         },
         {
@@ -2410,7 +2389,7 @@
           "name": "Poha",
           "position": 1,
           "description": "Yummy South Indian Poha",
-          "image": "poha-recipe_SI.jpg",
+          "image": "./Resource/poha-recipe_SI.jpg",
           "price": "10"
         },
         {
@@ -2418,7 +2397,7 @@
           "name": "Lemon Rice",
           "position": 1,
           "description": "Lemony Spicy Lemon Rice",
-          "image": "Lemon-Rice-4_SI.jpg",
+          "image": "./Resource/Lemon-Rice-4_SI.jpg",
           "price": "10"
         },
         {
@@ -2426,7 +2405,7 @@
           "name": "Mysore Bonda",
           "position": 1,
           "description": "Mysore Bonda",
-          "image": "Bonda_SI.jpeg",
+          "image": "./Resource/Bonda_SI.jpeg",
           "price": "10"
         },
         {
@@ -2434,42 +2413,42 @@
           "name": "Dahi Bara",
           "position": 1,
           "description": "North Indian Dahi vada are deep fried lentil balls soaked in curd/ yogurt and topped with various Spices & Masalas",
-          "image": "dahi-vada-recipe_SI.jpg",
+          "image": "./Resource/dahi-vada-recipe_SI.jpg",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Hydrabad",
       "Address": "Near BJP Office, Harmu Bypass Road, Harmu, Hydrabad",
       "Locality": "Harmu",
-      "Locality Verbose": "Harmu, Hydrabad",
+      "LocalityVerbose": "Harmu, Hydrabad",
       "Longitude": "0",
       "Latitude": "0",
       "Cuisines": "North Indian, Continental, Chinese",
-      "Average Cost for two": "400",
+      "AverageCost": "400",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "1",
-      "Aggregate rating": "3.2",
-      "Rating color": "Orange",
-      "Rating text": "Average",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "1",
+      "AggregateRating": "3.2",
+      "RatingColor": "Orange",
+      "RatingText": "Average",
       "Votes": "51"
     },
     {
-      "Restaurant ID": "10024",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Kaveri Restaurant And Caterers",
-      "restaurant-images": "kaveri.jpg",
+      "RestaurantID": "10024",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Kaveri Restaurant And Caterers",
+      "restaurantImages": "./Resource/kaveri.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Noodles",
           "position": 1,
           "description": "Egg Noodles is a Chinese dish made using eggs, noodles and veggies like cabbage, onion and carrot",
-          "image": "Noodles_C.jpg",
+          "image": "./Resource/Noodles_C.jpg",
           "price": "10"
         },
         {
@@ -2477,7 +2456,7 @@
           "name": "Hong Kong Fried Rice",
           "position": 1,
           "description": "Hong Kong style fried rice, the way hawkers do it!",
-          "image": "Fried_Rice.jpeg",
+          "image": "./Resource/Fried_Rice.jpeg",
           "price": "10"
         },
         {
@@ -2485,7 +2464,7 @@
           "name": "American Chop Seuy",
           "position": 1,
           "description": "One of the most popular and tasty fusion recipe is veg American chopsuey.",
-          "image": "veg-american-chopsuey-recipe-1_C.jpg",
+          "image": "./Resource/veg-american-chopsuey-recipe-1_C.jpg",
           "price": "10"
         },
         {
@@ -2493,7 +2472,7 @@
           "name": "Veg Manchow Soup",
           "position": 1,
           "description": "its a delicious vegan soup recipe made by cooking finely chopped vegetables in a hot & spicy flavour",
-          "image": "Veg-Manchow-Soup-recipe_C.jpg",
+          "image": "./Resource/Veg-Manchow-Soup-recipe_C.jpg",
           "price": "10"
         },
         {
@@ -2501,7 +2480,7 @@
           "name": "Fried Chicken Manchurium",
           "position": 1,
           "description": "Fried chicken in manchurian sauce, a popular Indian Chinese appetizer also served as a side",
-          "image": "garlic_Chicken_C.jpg",
+          "image": "./Resource/garlic_Chicken_C.jpg",
           "price": "10"
         },
         {
@@ -2509,7 +2488,7 @@
           "name": "Dragon Chicken",
           "position": 1,
           "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
-          "image": "Dragon-Chicken-Recipe_C.jpg",
+          "image": "./Resource/Dragon-Chicken-Recipe_C.jpg",
           "price": "10"
         },
         {
@@ -2517,7 +2496,7 @@
           "name": "Masala Dhosa Sambar",
           "position": 1,
           "description": "Instant Masala Dosha And Sambar Dal with the flavour of chennai",
-          "image": "img.png",
+          "image": "./Resource/img.png",
           "price": "10"
         },
         {
@@ -2525,7 +2504,7 @@
           "name": "Idli With Idli",
           "position": 1,
           "description": "Idli sambar is a tasty & delicious hotel style tiffin sambar that is served with idli",
-          "image": "idli-sambar-1_SI.jpg",
+          "image": "./Resource/idli-sambar-1_SI.jpg",
           "price": "10"
         },
         {
@@ -2533,7 +2512,7 @@
           "name": "Uttapam",
           "position": 1,
           "description": "Uttapam (aka Uttappa or Oothapam) is yet another healthy breakfast recipe from South Indian cuisine ",
-          "image": "uttapam_SI.jpg",
+          "image": "./Resource/uttapam_SI.jpg",
           "price": "10"
         },
         {
@@ -2541,7 +2520,7 @@
           "name": "Upma",
           "position": 1,
           "description": "Tasty South Indian upma",
-          "image": "vegetable-rava-upma_SI.png",
+          "image": "./Resource/vegetable-rava-upma_SI.png",
           "price": "10"
         },
         {
@@ -2549,7 +2528,7 @@
           "name": "Poha",
           "position": 1,
           "description": "Yummy South Indian Poha",
-          "image": "poha-recipe_SI.jpg",
+          "image": "./Resource/poha-recipe_SI.jpg",
           "price": "10"
         },
         {
@@ -2557,7 +2536,7 @@
           "name": "Lemon Rice",
           "position": 1,
           "description": "Lemony Spicy Lemon Rice",
-          "image": "Lemon-Rice-4_SI.jpg",
+          "image": "./Resource/Lemon-Rice-4_SI.jpg",
           "price": "10"
         },
         {
@@ -2565,7 +2544,7 @@
           "name": "Mysore Bonda",
           "position": 1,
           "description": "Mysore Bonda",
-          "image": "Bonda_SI.jpeg",
+          "image": "./Resource/Bonda_SI.jpeg",
           "price": "10"
         },
         {
@@ -2573,7 +2552,7 @@
           "name": "Dahi Bara",
           "position": 1,
           "description": "North Indian Dahi vada are deep fried lentil balls soaked in curd/ yogurt and topped with various Spices & Masalas",
-          "image": "dahi-vada-recipe_SI.jpg",
+          "image": "./Resource/dahi-vada-recipe_SI.jpg",
           "price": "10"
         },
         {
@@ -2581,7 +2560,7 @@
           "name": "Panner Reshmi Seekh",
           "position": 1,
           "description": "Capsicum,Honey,Pineapple, tasty combination of sweet and spicy",
-          "image": "download_NI.jpeg",
+          "image": "./Resource/download_NI.jpeg",
           "price": "10"
         },
         {
@@ -2589,7 +2568,7 @@
           "name": "Soya Malai Tikka",
           "position": 1,
           "description": "Delicious veg soya chaap in a creamy thick sauce",
-          "image": "maxresdefault_NI.jpg",
+          "image": "./Resource/maxresdefault_NI.jpg",
           "price": "10"
         },
         {
@@ -2597,7 +2576,7 @@
           "name": "Ajwain Fish Tikka",
           "position": 1,
           "description": "Spicy Fish Tikka preparation marinated with a combination of yogurt and spices infused with a slight",
-          "image": "fish_tikka_NI.jpegg",
+          "image": "./Resource/fish_tikka_NI.jpegg",
           "price": "10"
         },
         {
@@ -2605,7 +2584,7 @@
           "name": "Thai Chicken Curry",
           "position": 1,
           "description": "This fragrant Thai chicken curry is a one-pan dish that comes together in just 30 minutes.",
-          "image": "Thai-Red-Curry-Chicken-2_NI.jpg",
+          "image": "./Resource/Thai-Red-Curry-Chicken-2_NI.jpg",
           "price": "10"
         },
         {
@@ -2613,7 +2592,7 @@
           "name": "Butter Chicken",
           "position": 1,
           "description": "Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplified and cooked",
-          "image": "Butter_chicken_NI.jpeg",
+          "image": "./Resource/Butter_chicken_NI.jpeg",
           "price": "10"
         },
         {
@@ -2621,7 +2600,7 @@
           "name": "Makai Palak",
           "position": 1,
           "description": "In this corn palak recipe, boiled sweet corns kernels are added into vibrant green looking spinach",
-          "image": "big_palak_corn_subzi-7336_NI.jpg",
+          "image": "./Resource/big_palak_corn_subzi-7336_NI.jpg",
           "price": "10"
         },
         {
@@ -2629,7 +2608,7 @@
           "name": "Dal Makhani & Jeera Rice",
           "position": 1,
           "description": "simply tasty delicious dal makhani & jeera rice",
-          "image": "dal_rice_NI.jpeg",
+          "image": "./Resource/dal_rice_NI.jpeg",
           "price": "10"
         },
         {
@@ -2637,42 +2616,42 @@
           "name": "Mutton Rogan Josh",
           "position": 1,
           "description": "Mutton Rogan Josh is a tasty and delicious recipe from the Kashmiri cuisine",
-          "image": "Mutton Rogan Josh_NI.JPG",
+          "image": "./Resource/Mutton Rogan Josh_NI.JPG",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Hydrabad",
       "Address": "GEL Church Shopping Complex, Main Road, Hindpiri, Hydrabad",
       "Locality": "Hindpiri",
-      "Locality Verbose": "Hindpiri, Hydrabad",
+      "LocalityVerbose": "Hindpiri, Hydrabad",
       "Longitude": "85.32514606",
       "Latitude": "23.35780368",
       "Cuisines": "North Indian, Chinese, South Indian, Chinese",
-      "Average Cost for two": "450",
+      "AverageCost": "450",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "1",
-      "Aggregate rating": "4",
-      "Rating color": "Green",
-      "Rating text": "Very Good",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "1",
+      "AggregateRating": "4",
+      "RatingColor": "Green",
+      "RatingText": "Very Good",
       "Votes": "370"
     },
     {
-      "Restaurant ID": "10025",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Food Belle",
-      "restaurant-images": "cafe2.jpeg",
+      "RestaurantID": "10025",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Food Belle",
+      "restaurantImages": "./Resource/cafe2.jpeg",
       "menu-items": [
         {
           "id": "1",
           "name": "Noodles",
           "position": 1,
           "description": "Egg Noodles is a Chinese dish made using eggs, noodles and veggies like cabbage, onion and carrot",
-          "image": "Noodles_C.jpg",
+          "image": "./Resource/Noodles_C.jpg",
           "price": "10"
         },
         {
@@ -2680,7 +2659,7 @@
           "name": "Hong Kong Fried Rice",
           "position": 1,
           "description": "Hong Kong style fried rice, the way hawkers do it!",
-          "image": "Fried_Rice.jpeg",
+          "image": "./Resource/Fried_Rice.jpeg",
           "price": "10"
         },
         {
@@ -2688,7 +2667,7 @@
           "name": "American Chop Seuy",
           "position": 1,
           "description": "One of the most popular and tasty fusion recipe is veg American chopsuey.",
-          "image": "veg-american-chopsuey-recipe-1_C.jpg",
+          "image": "./Resource/veg-american-chopsuey-recipe-1_C.jpg",
           "price": "10"
         },
         {
@@ -2696,7 +2675,7 @@
           "name": "Veg Manchow Soup",
           "position": 1,
           "description": "its a delicious vegan soup recipe made by cooking finely chopped vegetables in a hot & spicy flavour",
-          "image": "Veg-Manchow-Soup-recipe_C.jpg",
+          "image": "./Resource/Veg-Manchow-Soup-recipe_C.jpg",
           "price": "10"
         },
         {
@@ -2704,7 +2683,7 @@
           "name": "Fried Chicken Manchurium",
           "position": 1,
           "description": "Fried chicken in manchurian sauce, a popular Indian Chinese appetizer also served as a side",
-          "image": "garlic_Chicken_C.jpg",
+          "image": "./Resource/garlic_Chicken_C.jpg",
           "price": "10"
         },
         {
@@ -2712,7 +2691,7 @@
           "name": "Dragon Chicken",
           "position": 1,
           "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
-          "image": "Dragon-Chicken-Recipe_C.jpg",
+          "image": "./Resource/Dragon-Chicken-Recipe_C.jpg",
           "price": "10"
         },
         {
@@ -2720,7 +2699,7 @@
           "name": "Panner Reshmi Seekh",
           "position": 1,
           "description": "Capsicum,Honey,Pineapple, tasty combination of sweet and spicy",
-          "image": "download_NI.jpeg",
+          "image": "./Resource/download_NI.jpeg",
           "price": "10"
         },
         {
@@ -2728,7 +2707,7 @@
           "name": "Soya Malai Tikka",
           "position": 1,
           "description": "Delicious veg soya chaap in a creamy thick sauce",
-          "image": "maxresdefault_NI.jpg",
+          "image": "./Resource/maxresdefault_NI.jpg",
           "price": "10"
         },
         {
@@ -2736,7 +2715,7 @@
           "name": "Ajwain Fish Tikka",
           "position": 1,
           "description": "Spicy Fish Tikka preparation marinated with a combination of yogurt and spices infused with a slight",
-          "image": "fish_tikka_NI.jpegg",
+          "image": "./Resource/fish_tikka_NI.jpegg",
           "price": "10"
         },
         {
@@ -2744,7 +2723,7 @@
           "name": "Thai Chicken Curry",
           "position": 1,
           "description": "This fragrant Thai chicken curry is a one-pan dish that comes together in just 30 minutes.",
-          "image": "Thai-Red-Curry-Chicken-2_NI.jpg",
+          "image": "./Resource/Thai-Red-Curry-Chicken-2_NI.jpg",
           "price": "10"
         },
         {
@@ -2752,7 +2731,7 @@
           "name": "Butter Chicken",
           "position": 1,
           "description": "Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplified and cooked",
-          "image": "Butter_chicken_NI.jpeg",
+          "image": "./Resource/Butter_chicken_NI.jpeg",
           "price": "10"
         },
         {
@@ -2760,7 +2739,7 @@
           "name": "Makai Palak",
           "position": 1,
           "description": "In this corn palak recipe, boiled sweet corns kernels are added into vibrant green looking spinach",
-          "image": "big_palak_corn_subzi-7336_NI.jpg",
+          "image": "./Resource/big_palak_corn_subzi-7336_NI.jpg",
           "price": "10"
         },
         {
@@ -2768,7 +2747,7 @@
           "name": "Dal Makhani & Jeera Rice",
           "position": 1,
           "description": "simply tasty delicious dal makhani & jeera rice",
-          "image": "dal_rice_NI.jpeg",
+          "image": "./Resource/dal_rice_NI.jpeg",
           "price": "10"
         },
         {
@@ -2776,42 +2755,42 @@
           "name": "Mutton Rogan Josh",
           "position": 1,
           "description": "Mutton Rogan Josh is a tasty and delicious recipe from the Kashmiri cuisine",
-          "image": "Mutton Rogan Josh_NI.JPG",
+          "image": "./Resource/Mutton Rogan Josh_NI.JPG",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Hydrabad",
       "Address": "Bhaskar Anirudh Complex, Near Jail More, Karamtoli Road, Lalpur, Hydrabad",
       "Locality": "Lalpur",
-      "Locality Verbose": "Lalpur, Hydrabad",
+      "LocalityVerbose": "Lalpur, Hydrabad",
       "Longitude": "0",
       "Latitude": "0",
       "Cuisines": "North Indian, Chinese",
-      "Average Cost for two": "650",
+      "AverageCost": "650",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "2",
-      "Aggregate rating": "3.3",
-      "Rating color": "Orange",
-      "Rating text": "Average",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "2",
+      "AggregateRating": "3.3",
+      "RatingColor": "Orange",
+      "RatingText": "Average",
       "Votes": "20"
     },
     {
-      "Restaurant ID": "10026",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Kaveri Restaurant And Caterers",
-      "restaurant-images": "udp.jpg",
+      "RestaurantID": "10026",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Kaveri Restaurant And Caterers",
+      "restaurantImages": "./Resource/udp.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Masala Dhosa Sambar",
           "position": 1,
           "description": "Instant Masala Dosha And Sambar Dal with the flavour of chennai",
-          "image": "img.png",
+          "image": "./Resource/img.png",
           "price": "10"
         },
         {
@@ -2819,7 +2798,7 @@
           "name": "Idli With Idli",
           "position": 1,
           "description": "Idli sambar is a tasty & delicious hotel style tiffin sambar that is served with idli",
-          "image": "idli-sambar-1_SI.jpg",
+          "image": "./Resource/idli-sambar-1_SI.jpg",
           "price": "10"
         },
         {
@@ -2827,7 +2806,7 @@
           "name": "Uttapam",
           "position": 1,
           "description": "Uttapam (aka Uttappa or Oothapam) is yet another healthy breakfast recipe from South Indian cuisine ",
-          "image": "uttapam_SI.jpg",
+          "image": "./Resource/uttapam_SI.jpg",
           "price": "10"
         },
         {
@@ -2835,7 +2814,7 @@
           "name": "Upma",
           "position": 1,
           "description": "Tasty South Indian upma",
-          "image": "vegetable-rava-upma_SI.png",
+          "image": "./Resource/vegetable-rava-upma_SI.png",
           "price": "10"
         },
         {
@@ -2843,7 +2822,7 @@
           "name": "Poha",
           "position": 1,
           "description": "Yummy South Indian Poha",
-          "image": "poha-recipe_SI.jpg",
+          "image": "./Resource/poha-recipe_SI.jpg",
           "price": "10"
         },
         {
@@ -2851,7 +2830,7 @@
           "name": "Lemon Rice",
           "position": 1,
           "description": "Lemony Spicy Lemon Rice",
-          "image": "Lemon-Rice-4_SI.jpg",
+          "image": "./Resource/Lemon-Rice-4_SI.jpg",
           "price": "10"
         },
         {
@@ -2859,7 +2838,7 @@
           "name": "Mysore Bonda",
           "position": 1,
           "description": "Mysore Bonda",
-          "image": "Bonda_SI.jpeg",
+          "image": "./Resource/Bonda_SI.jpeg",
           "price": "10"
         },
         {
@@ -2867,7 +2846,7 @@
           "name": "Dahi Bara",
           "position": 1,
           "description": "North Indian Dahi vada are deep fried lentil balls soaked in curd/ yogurt and topped with various Spices & Masalas",
-          "image": "dahi-vada-recipe_SI.jpg",
+          "image": "./Resource/dahi-vada-recipe_SI.jpg",
           "price": "10"
         },
         {
@@ -2875,7 +2854,7 @@
           "name": "Noodles",
           "position": 1,
           "description": "Egg Noodles is a Chinese dish made using eggs, noodles and veggies like cabbage, onion and carrot",
-          "image": "Noodles_C.jpg",
+          "image": "./Resource/Noodles_C.jpg",
           "price": "10"
         },
         {
@@ -2883,7 +2862,7 @@
           "name": "Hong Kong Fried Rice",
           "position": 1,
           "description": "Hong Kong style fried rice, the way hawkers do it!",
-          "image": "Fried_Rice.jpeg",
+          "image": "./Resource/Fried_Rice.jpeg",
           "price": "10"
         },
         {
@@ -2891,7 +2870,7 @@
           "name": "American Chop Seuy",
           "position": 1,
           "description": "One of the most popular and tasty fusion recipe is veg American chopsuey.",
-          "image": "veg-american-chopsuey-recipe-1_C.jpg",
+          "image": "./Resource/veg-american-chopsuey-recipe-1_C.jpg",
           "price": "10"
         },
         {
@@ -2899,7 +2878,7 @@
           "name": "Veg Manchow Soup",
           "position": 1,
           "description": "its a delicious vegan soup recipe made by cooking finely chopped vegetables in a hot & spicy flavour",
-          "image": "Veg-Manchow-Soup-recipe_C.jpg",
+          "image": "./Resource/Veg-Manchow-Soup-recipe_C.jpg",
           "price": "10"
         },
         {
@@ -2907,7 +2886,7 @@
           "name": "Fried Chicken Manchurium",
           "position": 1,
           "description": "Fried chicken in manchurian sauce, a popular Indian Chinese appetizer also served as a side",
-          "image": "garlic_Chicken_C.jpg",
+          "image": "./Resource/garlic_Chicken_C.jpg",
           "price": "10"
         },
         {
@@ -2915,7 +2894,7 @@
           "name": "Dragon Chicken",
           "position": 1,
           "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
-          "image": "Dragon-Chicken-Recipe_C.jpg",
+          "image": "./Resource/Dragon-Chicken-Recipe_C.jpg",
           "price": "10"
         },
         {
@@ -2923,7 +2902,7 @@
           "name": "Panner Reshmi Seekh",
           "position": 1,
           "description": "Capsicum,Honey,Pineapple, tasty combination of sweet and spicy",
-          "image": "download_NI.jpeg",
+          "image": "./Resource/download_NI.jpeg",
           "price": "10"
         },
         {
@@ -2931,7 +2910,7 @@
           "name": "Soya Malai Tikka",
           "position": 1,
           "description": "Delicious veg soya chaap in a creamy thick sauce",
-          "image": "maxresdefault_NI.jpg",
+          "image": "./Resource/maxresdefault_NI.jpg",
           "price": "10"
         },
         {
@@ -2939,7 +2918,7 @@
           "name": "Ajwain Fish Tikka",
           "position": 1,
           "description": "Spicy Fish Tikka preparation marinated with a combination of yogurt and spices infused with a slight",
-          "image": "fish_tikka_NI.jpegg",
+          "image": "./Resource/fish_tikka_NI.jpegg",
           "price": "10"
         },
         {
@@ -2947,7 +2926,7 @@
           "name": "Thai Chicken Curry",
           "position": 1,
           "description": "This fragrant Thai chicken curry is a one-pan dish that comes together in just 30 minutes.",
-          "image": "Thai-Red-Curry-Chicken-2_NI.jpg",
+          "image": "./Resource/Thai-Red-Curry-Chicken-2_NI.jpg",
           "price": "10"
         },
         {
@@ -2955,7 +2934,7 @@
           "name": "Butter Chicken",
           "position": 1,
           "description": "Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplified and cooked",
-          "image": "Butter_chicken_NI.jpeg",
+          "image": "./Resource/Butter_chicken_NI.jpeg",
           "price": "10"
         },
         {
@@ -2963,7 +2942,7 @@
           "name": "Makai Palak",
           "position": 1,
           "description": "In this corn palak recipe, boiled sweet corns kernels are added into vibrant green looking spinach",
-          "image": "big_palak_corn_subzi-7336_NI.jpg",
+          "image": "./Resource/big_palak_corn_subzi-7336_NI.jpg",
           "price": "10"
         },
         {
@@ -2971,7 +2950,7 @@
           "name": "Dal Makhani & Jeera Rice",
           "position": 1,
           "description": "simply tasty delicious dal makhani & jeera rice",
-          "image": "dal_rice_NI.jpeg",
+          "image": "./Resource/dal_rice_NI.jpeg",
           "price": "10"
         },
         {
@@ -2979,42 +2958,42 @@
           "name": "Mutton Rogan Josh",
           "position": 1,
           "description": "Mutton Rogan Josh is a tasty and delicious recipe from the Kashmiri cuisine",
-          "image": "Mutton Rogan Josh_NI.JPG",
+          "image": "./Resource/Mutton Rogan Josh_NI.JPG",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Hydrabad",
       "Address": "Circular Road, Near Lalpur Chowk, Lalpur, Hydrabad",
       "Locality": "Lalpur",
-      "Locality Verbose": "Lalpur, Hydrabad",
+      "LocalityVerbose": "Lalpur, Hydrabad",
       "Longitude": "85.33548611",
       "Latitude": "23.37498889",
       "Cuisines": "North Indian, Chinese, South Indian, Chinese",
-      "Average Cost for two": "450",
+      "AverageCost": "450",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "1",
-      "Aggregate rating": "3.4",
-      "Rating color": "Orange",
-      "Rating text": "Average",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "1",
+      "AggregateRating": "3.4",
+      "RatingColor": "Orange",
+      "RatingText": "Average",
       "Votes": "102"
     },
     {
-      "Restaurant ID": "10027",
-      "Restaurant password": "12345",
-      "Restaurant Name": "OMG Cafe",
-      "restaurant-images": "cafe6.jpg",
+      "RestaurantID": "10027",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "OMG Cafe",
+      "restaurantImages": "./Resource/cafe6.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Black Forrest Cake",
           "position": 1,
           "description": "Black Forrest Cake smothered with old-fashioned whipped cream and topped off with juicy cherries",
-          "image": "500x378-black-forest-cake_0_CCD.jpg",
+          "image": "./Resource/500x378-black-forest-cake_0_CCD.jpg",
           "price": "10"
         },
         {
@@ -3022,7 +3001,7 @@
           "name": "Chilli Cheese Toastizza",
           "position": 1,
           "description": "Get cheesy with this crispy toast topped with onions, tomatoes and capsicum, loaded with cheese and sprinkled with chilli flakes.",
-          "image": "Chilli-Cheese-Toastizza_2_CCD.jpg",
+          "image": "./Resource/Chilli-Cheese-Toastizza_2_CCD.jpg",
           "price": "10"
         },
         {
@@ -3030,7 +3009,7 @@
           "name": "Cocoa Fantasy Pastry",
           "position": 1,
           "description": "Classic chocolate pre sliced pastry with cream & cocoa vermicelli.",
-          "image": "836x663-Coco-Slice_CCD.jpg",
+          "image": "./Resource/836x663-Coco-Slice_CCD.jpg",
           "price": "10"
         },
         {
@@ -3038,7 +3017,7 @@
           "name": "Crispy Veg Wrap",
           "position": 1,
           "description": "We made veggies taste good. You can thank us later.",
-          "image": "CrispyVeg_2_CCD.jpg",
+          "image": "./Resource/CrispyVeg_2_CCD.jpg",
           "price": "10"
         },
         {
@@ -3046,7 +3025,7 @@
           "name": "Garlic Bread",
           "position": 1,
           "description": "Buttery rich goodness infused with garlic. You won't be able to resist it!",
-          "image": "Garlic-Bread_2_CCD.jpg",
+          "image": "./Resource/Garlic-Bread_2_CCD.jpg",
           "price": "10"
         },
         {
@@ -3054,7 +3033,7 @@
           "name": "Munch-On Nachos",
           "position": 1,
           "description": "The crispiest of corn chips pampered with salsa from the land of Tex-Mex. Munch hunger away!",
-          "image": "Nachos_CCD.jpg",
+          "image": "./Resource/Nachos_CCD.jpg",
           "price": "10"
         },
         {
@@ -3062,7 +3041,7 @@
           "name": "Peppy Chicken Roll",
           "position": 1,
           "description": "Peppery chicken with crunchy juliennes of capsicum and red onion in a delicious Malabar egg paratha. Yes, that's how we roll.",
-          "image": "Peppy-Chicken-Roll_1_CCD.jpg",
+          "image": "./Resource/Peppy-Chicken-Roll_1_CCD.jpg",
           "price": "10"
         },
         {
@@ -3070,7 +3049,7 @@
           "name": "Smoked Chicken Sandwich",
           "position": 1,
           "description": "Succulent smoked chicken topped with crunchy veggies, served in a white bread topped with chipotle.",
-          "image": "Smoked-Chicken-Sandwich_2_CCD.jpg",
+          "image": "./Resource/Smoked-Chicken-Sandwich_2_CCD.jpg",
           "price": "10"
         },
         {
@@ -3078,7 +3057,7 @@
           "name": "Sizzle Dazzle Brownie",
           "position": 1,
           "description": "Sizzling hot gooey choco brownie served with vanilla ice cream and choco sauce.",
-          "image": "sizzle-dazzle-brownie_(2)_CCD.jpg",
+          "image": "./Resource/sizzle-dazzle-brownie_(2)_CCD.jpg",
           "price": "10"
         },
         {
@@ -3086,42 +3065,42 @@
           "name": "Aztec Single Origin Coffee",
           "position": 1,
           "description": "A delightful international gourment blend that includes a double shot of espresso brewed from a blend of imported coffee beans topped with steamed and foamed milk.",
-          "image": "Aztec-Ethiopian_0_CCD.jpg",
+          "image": "./Resource/Aztec-Ethiopian_0_CCD.jpg",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Hydrabad",
       "Address": "301, 3rd Floor, R S Tower, Opposite Pantaloons, Circular Road, Lalpur, Hydrabad",
       "Locality": "Lalpur",
-      "Locality Verbose": "Lalpur, Hydrabad",
+      "LocalityVerbose": "Lalpur, Hydrabad",
       "Longitude": "0",
       "Latitude": "0",
       "Cuisines": "Cafe, Italian, Mexican, Chinese, North Indian",
-      "Average Cost for two": "500",
+      "AverageCost": "500",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "2",
-      "Aggregate rating": "3.3",
-      "Rating color": "Orange",
-      "Rating text": "Average",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "2",
+      "AggregateRating": "3.3",
+      "RatingColor": "Orange",
+      "RatingText": "Average",
       "Votes": "19"
     },
     {
-      "Restaurant ID": "10028",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Pizza Hut",
-      "restaurant-images": "pizza_hut.jpeg",
+      "RestaurantID": "10028",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Pizza Hut",
+      "restaurantImages": "./Resource/pizza_hut.jpeg",
       "menu-items": [
         {
           "id": "1",
           "name": "Margherita",
           "position": 1,
           "description": "Classic delight with 100% real mozzarella cheese",
-          "image": "new_margherita_pizza.jpg",
+          "image": "./Resource/new_margherita_pizza.jpg",
           "price": "10"
         },
         {
@@ -3129,7 +3108,7 @@
           "name": "Farmhouse",
           "position": 1,
           "description": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
-          "image": "farmhouse_pizza.jpg",
+          "image": "./Resource/farmhouse_pizza.jpg",
           "price": "10"
         },
         {
@@ -3137,7 +3116,7 @@
           "name": "Peppy Paneer",
           "position": 1,
           "description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika",
-          "image": "new_peppy_paneer_pizza.jpg",
+          "image": "./Resource/new_peppy_paneer_pizza.jpg",
           "price": "10"
         },
         {
@@ -3145,7 +3124,7 @@
           "name": "Veg Extravaganza",
           "position": 1,
           "description": "Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese",
-          "image": "new_veg_extravaganza_pizza.jpg",
+          "image": "./Resource/new_veg_extravaganza_pizza.jpg",
           "price": "10"
         },
         {
@@ -3153,7 +3132,7 @@
           "name": "Veggie Paradise",
           "position": 1,
           "description": "The awesome foursome! Golden corn, black olives, capsicum, red paprikae",
-          "image": "new_veggie_paradise_pizza.jpg",
+          "image": "./Resource/new_veggie_paradise_pizza.jpg",
           "price": "10"
         },
         {
@@ -3161,7 +3140,7 @@
           "name": "Cheese n Corn",
           "position": 1,
           "description": "A delectable combination of sweet & juicy golden corn",
-          "image": "new_cheese_n_corn_pizza.jpg",
+          "image": "./Resource/new_cheese_n_corn_pizza.jpg",
           "price": "10"
         },
         {
@@ -3169,7 +3148,7 @@
           "name": "Pepper Barbecue Chicken",
           "position": 1,
           "description": "Pepper barbecue chicken for that extra zing",
-          "image": "new_pepper_barbeque_chicken_pizza.jpg",
+          "image": "./Resource/new_pepper_barbeque_chicken_pizza.jpg",
           "price": "10"
         },
         {
@@ -3177,42 +3156,42 @@
           "name": "Chicken Sausage",
           "position": 1,
           "description": "American classic! Spicy, herbed chicken sausage on pizza",
-          "image": "new_chicken_sausage_pizza.jpg",
+          "image": "./Resource/new_chicken_sausage_pizza.jpg",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Hydrabad",
       "Address": "Shop 101, Ground Floor, Spring City Mall, Beside Eyelex Cinema, Airport Road, Hinoo, Doranda, Hydrabad",
       "Locality": "Spring City Mall, Doranda",
-      "Locality Verbose": "Spring City Mall, Doranda, Hydrabad",
+      "LocalityVerbose": "Spring City Mall, Doranda, Hydrabad",
       "Longitude": "85.3172",
       "Latitude": "23.33301667",
       "Cuisines": "Pizza",
-      "Average Cost for two": "700",
+      "AverageCost": "700",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "2",
-      "Aggregate rating": "3.5",
-      "Rating color": "Yellow",
-      "Rating text": "Good",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "2",
+      "AggregateRating": "3.5",
+      "RatingColor": "Yellow",
+      "RatingText": "Good",
       "Votes": "66"
     },
     {
-      "Restaurant ID": "10029",
-      "Restaurant password": "12345",
-      "Restaurant Name": "Aroma - The Royal Retreat",
-      "restaurant-images": "aroma_res.jpg",
+      "RestaurantID": "10029",
+      "RestaurantPassword": "12345",
+      "RestaurantName": "Aroma - The Royal Retreat",
+      "restaurantImages": "./Resource/aroma_res.jpg",
       "menu-items": [
         {
           "id": "1",
           "name": "Noodles",
           "position": 1,
           "description": "Egg Noodles is a Chinese dish made using eggs, noodles and veggies like cabbage, onion and carrot",
-          "image": "Noodles_C.jpg",
+          "image": "./Resource/Noodles_C.jpg",
           "price": "10"
         },
         {
@@ -3220,7 +3199,7 @@
           "name": "Hong Kong Fried Rice",
           "position": 1,
           "description": "Hong Kong style fried rice, the way hawkers do it!",
-          "image": "Fried_Rice.jpeg",
+          "image": "./Resource/Fried_Rice.jpeg",
           "price": "10"
         },
         {
@@ -3228,7 +3207,7 @@
           "name": "American Chop Seuy",
           "position": 1,
           "description": "One of the most popular and tasty fusion recipe is veg American chopsuey.",
-          "image": "veg-american-chopsuey-recipe-1_C.jpg",
+          "image": "./Resource/veg-american-chopsuey-recipe-1_C.jpg",
           "price": "10"
         },
         {
@@ -3236,7 +3215,7 @@
           "name": "Veg Manchow Soup",
           "position": 1,
           "description": "its a delicious vegan soup recipe made by cooking finely chopped vegetables in a hot & spicy flavour",
-          "image": "Veg-Manchow-Soup-recipe_C.jpg",
+          "image": "./Resource/Veg-Manchow-Soup-recipe_C.jpg",
           "price": "10"
         },
         {
@@ -3244,7 +3223,7 @@
           "name": "Fried Chicken Manchurium",
           "position": 1,
           "description": "Fried chicken in manchurian sauce, a popular Indian Chinese appetizer also served as a side",
-          "image": "garlic_Chicken_C.jpg",
+          "image": "./Resource/garlic_Chicken_C.jpg",
           "price": "10"
         },
         {
@@ -3252,7 +3231,7 @@
           "name": "Dragon Chicken",
           "position": 1,
           "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
-          "image": "Dragon-Chicken-Recipe_C.jpg",
+          "image": "./Resource/Dragon-Chicken-Recipe_C.jpg",
           "price": "10"
         },
         {
@@ -3260,7 +3239,7 @@
           "name": "Masala Dhosa Sambar",
           "position": 1,
           "description": "Instant Masala Dosha And Sambar Dal with the flavour of chennai",
-          "image": "img.png",
+          "image": "./Resource/img.png",
           "price": "10"
         },
         {
@@ -3268,7 +3247,7 @@
           "name": "Idli With Idli",
           "position": 1,
           "description": "Idli sambar is a tasty & delicious hotel style tiffin sambar that is served with idli",
-          "image": "idli-sambar-1_SI.jpg",
+          "image": "./Resource/idli-sambar-1_SI.jpg",
           "price": "10"
         },
         {
@@ -3276,7 +3255,7 @@
           "name": "Uttapam",
           "position": 1,
           "description": "Uttapam (aka Uttappa or Oothapam) is yet another healthy breakfast recipe from South Indian cuisine ",
-          "image": "uttapam_SI.jpg",
+          "image": "./Resource/uttapam_SI.jpg",
           "price": "10"
         },
         {
@@ -3284,7 +3263,7 @@
           "name": "Upma",
           "position": 1,
           "description": "Tasty South Indian upma",
-          "image": "vegetable-rava-upma_SI.png",
+          "image": "./Resource/vegetable-rava-upma_SI.png",
           "price": "10"
         },
         {
@@ -3292,7 +3271,7 @@
           "name": "Poha",
           "position": 1,
           "description": "Yummy South Indian Poha",
-          "image": "poha-recipe_SI.jpg",
+          "image": "./Resource/poha-recipe_SI.jpg",
           "price": "10"
         },
         {
@@ -3300,7 +3279,7 @@
           "name": "Lemon Rice",
           "position": 1,
           "description": "Lemony Spicy Lemon Rice",
-          "image": "Lemon-Rice-4_SI.jpg",
+          "image": "./Resource/Lemon-Rice-4_SI.jpg",
           "price": "10"
         },
         {
@@ -3308,7 +3287,7 @@
           "name": "Mysore Bonda",
           "position": 1,
           "description": "Mysore Bonda",
-          "image": "Bonda_SI.jpeg",
+          "image": "./Resource/Bonda_SI.jpeg",
           "price": "10"
         },
         {
@@ -3316,7 +3295,7 @@
           "name": "Dahi Bara",
           "position": 1,
           "description": "North Indian Dahi vada are deep fried lentil balls soaked in curd/ yogurt and topped with various Spices & Masalas",
-          "image": "dahi-vada-recipe_SI.jpg",
+          "image": "./Resource/dahi-vada-recipe_SI.jpg",
           "price": "10"
         },
         {
@@ -3324,7 +3303,7 @@
           "name": "Panner Reshmi Seekh",
           "position": 1,
           "description": "Capsicum,Honey,Pineapple, tasty combination of sweet and spicy",
-          "image": "download_NI.jpeg",
+          "image": "./Resource/download_NI.jpeg",
           "price": "10"
         },
         {
@@ -3332,7 +3311,7 @@
           "name": "Soya Malai Tikka",
           "position": 1,
           "description": "Delicious veg soya chaap in a creamy thick sauce",
-          "image": "maxresdefault_NI.jpg",
+          "image": "./Resource/maxresdefault_NI.jpg",
           "price": "10"
         },
         {
@@ -3340,7 +3319,7 @@
           "name": "Ajwain Fish Tikka",
           "position": 1,
           "description": "Spicy Fish Tikka preparation marinated with a combination of yogurt and spices infused with a slight",
-          "image": "fish_tikka_NI.jpegg",
+          "image": "./Resource/fish_tikka_NI.jpegg",
           "price": "10"
         },
         {
@@ -3348,7 +3327,7 @@
           "name": "Thai Chicken Curry",
           "position": 1,
           "description": "This fragrant Thai chicken curry is a one-pan dish that comes together in just 30 minutes.",
-          "image": "Thai-Red-Curry-Chicken-2_NI.jpg",
+          "image": "./Resource/Thai-Red-Curry-Chicken-2_NI.jpg",
           "price": "10"
         },
         {
@@ -3356,7 +3335,7 @@
           "name": "Butter Chicken",
           "position": 1,
           "description": "Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplified and cooked",
-          "image": "Butter_chicken_NI.jpeg",
+          "image": "./Resource/Butter_chicken_NI.jpeg",
           "price": "10"
         },
         {
@@ -3364,7 +3343,7 @@
           "name": "Makai Palak",
           "position": 1,
           "description": "In this corn palak recipe, boiled sweet corns kernels are added into vibrant green looking spinach",
-          "image": "big_palak_corn_subzi-7336_NI.jpg",
+          "image": "./Resource/big_palak_corn_subzi-7336_NI.jpg",
           "price": "10"
         },
         {
@@ -3372,7 +3351,7 @@
           "name": "Dal Makhani & Jeera Rice",
           "position": 1,
           "description": "simply tasty delicious dal makhani & jeera rice",
-          "image": "dal_rice_NI.jpeg",
+          "image": "./Resource/dal_rice_NI.jpeg",
           "price": "10"
         },
         {
@@ -3380,28 +3359,28 @@
           "name": "Mutton Rogan Josh",
           "position": 1,
           "description": "Mutton Rogan Josh is a tasty and delicious recipe from the Kashmiri cuisine",
-          "image": "Mutton Rogan Josh_NI.JPG",
+          "image": "./Resource/Mutton Rogan Josh_NI.JPG",
           "price": "10"
         }
       ],
-      "Country Code": "1",
+      "CountryCode": "1",
       "City": "Hydrabad",
       "Address": "The Royal Retreat, Krishna Nagar, Booti, Bariatu, Hydrabad",
       "Locality": "The Royal Retreat, Bariatu",
-      "Locality Verbose": "The Royal Retreat, Bariatu, Hydrabad",
+      "LocalityVerbose": "The Royal Retreat, Bariatu, Hydrabad",
       "Longitude": "85.39046389",
       "Latitude": "23.39925",
       "Cuisines": "North Indian, South Indian, Chinese",
-      "Average Cost for two": "1500",
+      "AverageCost": "1500",
       "Currency": "Indian Rupees(Rs.)",
-      "Has Table booking": "No",
-      "Has Online delivery": "No",
-      "Is delivering now": "No",
-      "Switch to order menu": "No",
-      "Price range": "3",
-      "Aggregate rating": "3.5",
-      "Rating color": "Yellow",
-      "Rating text": "Good",
+      "HasTableBooking": "No",
+      "HasOnlineDelivery": "No",
+      "IsdeliveringNow": "No",
+      "SwitchToOrderMenu": "No",
+      "PriceRange": "3",
+      "AggregateRating": "3.5",
+      "RatingColor": "Yellow",
+      "RatingText": "Good",
       "Votes": "67"
     }
   ]
